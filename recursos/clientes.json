@@ -1,0 +1,5002 @@
+[
+  {
+    "ID_Cliente": "C0001",
+    "Nombre": "Carlos Ramírez",
+    "Segmento": "Empresas",
+    "Email": "carlos.ramírez@mail.com",
+    "Telefono": "+1-555-5732",
+    "Fecha_Registro": "2022-03-11",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0002",
+    "Nombre": "Carlos Ramírez",
+    "Segmento": "Empresas",
+    "Email": "carlos.ramírez@mail.com",
+    "Telefono": "+1-555-3312",
+    "Fecha_Registro": "2024-06-19",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0003",
+    "Nombre": "Carlos Fernández",
+    "Segmento": "Particulares",
+    "Email": "carlos.fernández@mail.com",
+    "Telefono": "+1-555-3987",
+    "Fecha_Registro": "2023-08-18",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0004",
+    "Nombre": "Elena Vargas",
+    "Segmento": "PyME",
+    "Email": "elena.vargas@mail.com",
+    "Telefono": "+1-555-2369",
+    "Fecha_Registro": "2022-07-16",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0005",
+    "Nombre": "Diego García",
+    "Segmento": "PyME",
+    "Email": "diego.garcía@mail.com",
+    "Telefono": "+1-555-9254",
+    "Fecha_Registro": "2022-01-24",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0006",
+    "Nombre": "Elena Hernández",
+    "Segmento": "PyME",
+    "Email": "elena.hernández@mail.com",
+    "Telefono": "+1-555-2681",
+    "Fecha_Registro": "2023-05-09",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0007",
+    "Nombre": "Elena Vargas",
+    "Segmento": "Empresas",
+    "Email": "elena.vargas@mail.com",
+    "Telefono": "+1-555-2770",
+    "Fecha_Registro": "2022-06-15",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0008",
+    "Nombre": "Miguel González",
+    "Segmento": "Particulares",
+    "Email": "miguel.gonzález@mail.com",
+    "Telefono": "+1-555-6481",
+    "Fecha_Registro": "2024-05-12",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0009",
+    "Nombre": "Marcos Vargas",
+    "Segmento": "PyME",
+    "Email": "marcos.vargas@mail.com",
+    "Telefono": "+1-555-9517",
+    "Fecha_Registro": "2024-03-15",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0010",
+    "Nombre": "Marcos Silva",
+    "Segmento": "Particulares",
+    "Email": "marcos.silva@mail.com",
+    "Telefono": "+1-555-2759",
+    "Fecha_Registro": "2024-06-12",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0011",
+    "Nombre": "Juan García",
+    "Segmento": "PyME",
+    "Email": "juan.garcía@mail.com",
+    "Telefono": "+1-555-9274",
+    "Fecha_Registro": "2023-09-21",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0012",
+    "Nombre": "María Vargas",
+    "Segmento": "Empresas",
+    "Email": "maría.vargas@mail.com",
+    "Telefono": "+1-555-3154",
+    "Fecha_Registro": "2022-05-06",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0013",
+    "Nombre": "Sofía Fernández",
+    "Segmento": "Particulares",
+    "Email": "sofía.fernández@mail.com",
+    "Telefono": "+1-555-4199",
+    "Fecha_Registro": "2022-12-07",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0014",
+    "Nombre": "Ana Ramírez",
+    "Segmento": "Empresas",
+    "Email": "ana.ramírez@mail.com",
+    "Telefono": "+1-555-3596",
+    "Fecha_Registro": "2023-07-18",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0015",
+    "Nombre": "Valeria González",
+    "Segmento": "Empresas",
+    "Email": "valeria.gonzález@mail.com",
+    "Telefono": "+1-555-3154",
+    "Fecha_Registro": "2023-11-09",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0016",
+    "Nombre": "Pedro Castro",
+    "Segmento": "PyME",
+    "Email": "pedro.castro@mail.com",
+    "Telefono": "+1-555-7728",
+    "Fecha_Registro": "2022-07-16",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0017",
+    "Nombre": "Laura González",
+    "Segmento": "Particulares",
+    "Email": "laura.gonzález@mail.com",
+    "Telefono": "+1-555-1309",
+    "Fecha_Registro": "2023-07-11",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0018",
+    "Nombre": "María Martínez",
+    "Segmento": "PyME",
+    "Email": "maría.martínez@mail.com",
+    "Telefono": "+1-555-9308",
+    "Fecha_Registro": "2022-11-05",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0019",
+    "Nombre": "Ana Hernández",
+    "Segmento": "Empresas",
+    "Email": "ana.hernández@mail.com",
+    "Telefono": "+1-555-1496",
+    "Fecha_Registro": "2023-10-09",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0020",
+    "Nombre": "Ana Silva",
+    "Segmento": "Particulares",
+    "Email": "ana.silva@mail.com",
+    "Telefono": "+1-555-9450",
+    "Fecha_Registro": "2024-01-13",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0021",
+    "Nombre": "Carlos García",
+    "Segmento": "Empresas",
+    "Email": "carlos.garcía@mail.com",
+    "Telefono": "+1-555-2303",
+    "Fecha_Registro": "2022-11-21",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0022",
+    "Nombre": "Elena López",
+    "Segmento": "Particulares",
+    "Email": "elena.lópez@mail.com",
+    "Telefono": "+1-555-3373",
+    "Fecha_Registro": "2022-11-22",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0023",
+    "Nombre": "Pedro Pérez",
+    "Segmento": "Particulares",
+    "Email": "pedro.pérez@mail.com",
+    "Telefono": "+1-555-4810",
+    "Fecha_Registro": "2024-05-08",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0024",
+    "Nombre": "Lucía Fernández",
+    "Segmento": "Empresas",
+    "Email": "lucía.fernández@mail.com",
+    "Telefono": "+1-555-9411",
+    "Fecha_Registro": "2022-05-11",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0025",
+    "Nombre": "Juan González",
+    "Segmento": "Particulares",
+    "Email": "juan.gonzález@mail.com",
+    "Telefono": "+1-555-4703",
+    "Fecha_Registro": "2022-08-10",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0026",
+    "Nombre": "Lucía López",
+    "Segmento": "Particulares",
+    "Email": "lucía.lópez@mail.com",
+    "Telefono": "+1-555-9097",
+    "Fecha_Registro": "2023-09-01",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0027",
+    "Nombre": "Javier Martínez",
+    "Segmento": "PyME",
+    "Email": "javier.martínez@mail.com",
+    "Telefono": "+1-555-7589",
+    "Fecha_Registro": "2022-12-06",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0028",
+    "Nombre": "Pablo Castro",
+    "Segmento": "PyME",
+    "Email": "pablo.castro@mail.com",
+    "Telefono": "+1-555-3353",
+    "Fecha_Registro": "2023-06-11",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0029",
+    "Nombre": "Pablo Fernández",
+    "Segmento": "Particulares",
+    "Email": "pablo.fernández@mail.com",
+    "Telefono": "+1-555-6754",
+    "Fecha_Registro": "2022-09-02",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0030",
+    "Nombre": "Laura Vargas",
+    "Segmento": "PyME",
+    "Email": "laura.vargas@mail.com",
+    "Telefono": "+1-555-2794",
+    "Fecha_Registro": "2024-03-08",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0031",
+    "Nombre": "Valeria García",
+    "Segmento": "PyME",
+    "Email": "valeria.garcía@mail.com",
+    "Telefono": "+1-555-6120",
+    "Fecha_Registro": "2023-10-19",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0032",
+    "Nombre": "Marcos Martínez",
+    "Segmento": "PyME",
+    "Email": "marcos.martínez@mail.com",
+    "Telefono": "+1-555-1232",
+    "Fecha_Registro": "2023-09-12",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0033",
+    "Nombre": "Miguel Torres",
+    "Segmento": "PyME",
+    "Email": "miguel.torres@mail.com",
+    "Telefono": "+1-555-6895",
+    "Fecha_Registro": "2022-04-26",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0034",
+    "Nombre": "Javier Pérez",
+    "Segmento": "PyME",
+    "Email": "javier.pérez@mail.com",
+    "Telefono": "+1-555-9395",
+    "Fecha_Registro": "2023-10-09",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0035",
+    "Nombre": "Carlos Hernández",
+    "Segmento": "PyME",
+    "Email": "carlos.hernández@mail.com",
+    "Telefono": "+1-555-1630",
+    "Fecha_Registro": "2023-06-16",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0036",
+    "Nombre": "Rocío Castro",
+    "Segmento": "Empresas",
+    "Email": "rocío.castro@mail.com",
+    "Telefono": "+1-555-7241",
+    "Fecha_Registro": "2022-10-29",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0037",
+    "Nombre": "Miguel Pérez",
+    "Segmento": "Particulares",
+    "Email": "miguel.pérez@mail.com",
+    "Telefono": "+1-555-6262",
+    "Fecha_Registro": "2022-10-18",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0038",
+    "Nombre": "Sofía González",
+    "Segmento": "Empresas",
+    "Email": "sofía.gonzález@mail.com",
+    "Telefono": "+1-555-1669",
+    "Fecha_Registro": "2023-12-27",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0039",
+    "Nombre": "Marcos González",
+    "Segmento": "PyME",
+    "Email": "marcos.gonzález@mail.com",
+    "Telefono": "+1-555-4702",
+    "Fecha_Registro": "2023-02-19",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0040",
+    "Nombre": "Javier Fernández",
+    "Segmento": "PyME",
+    "Email": "javier.fernández@mail.com",
+    "Telefono": "+1-555-4253",
+    "Fecha_Registro": "2022-09-21",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0041",
+    "Nombre": "Javier Martínez",
+    "Segmento": "PyME",
+    "Email": "javier.martínez@mail.com",
+    "Telefono": "+1-555-7866",
+    "Fecha_Registro": "2022-06-30",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0042",
+    "Nombre": "Pablo Fernández",
+    "Segmento": "PyME",
+    "Email": "pablo.fernández@mail.com",
+    "Telefono": "+1-555-6617",
+    "Fecha_Registro": "2022-09-15",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0043",
+    "Nombre": "Lucía Martínez",
+    "Segmento": "Particulares",
+    "Email": "lucía.martínez@mail.com",
+    "Telefono": "+1-555-5223",
+    "Fecha_Registro": "2023-12-06",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0044",
+    "Nombre": "Valeria Torres",
+    "Segmento": "PyME",
+    "Email": "valeria.torres@mail.com",
+    "Telefono": "+1-555-8333",
+    "Fecha_Registro": "2023-12-25",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0045",
+    "Nombre": "Sofía Ramírez",
+    "Segmento": "Empresas",
+    "Email": "sofía.ramírez@mail.com",
+    "Telefono": "+1-555-3948",
+    "Fecha_Registro": "2022-10-11",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0046",
+    "Nombre": "Javier Ramírez",
+    "Segmento": "PyME",
+    "Email": "javier.ramírez@mail.com",
+    "Telefono": "+1-555-4605",
+    "Fecha_Registro": "2022-10-20",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0047",
+    "Nombre": "Miguel Vargas",
+    "Segmento": "Empresas",
+    "Email": "miguel.vargas@mail.com",
+    "Telefono": "+1-555-9610",
+    "Fecha_Registro": "2023-06-20",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0048",
+    "Nombre": "Juan Martínez",
+    "Segmento": "Empresas",
+    "Email": "juan.martínez@mail.com",
+    "Telefono": "+1-555-2463",
+    "Fecha_Registro": "2024-02-01",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0049",
+    "Nombre": "Diego Vargas",
+    "Segmento": "Particulares",
+    "Email": "diego.vargas@mail.com",
+    "Telefono": "+1-555-9709",
+    "Fecha_Registro": "2022-06-26",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0050",
+    "Nombre": "María González",
+    "Segmento": "Empresas",
+    "Email": "maría.gonzález@mail.com",
+    "Telefono": "+1-555-5744",
+    "Fecha_Registro": "2022-01-25",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0051",
+    "Nombre": "Lucía Vargas",
+    "Segmento": "PyME",
+    "Email": "lucía.vargas@mail.com",
+    "Telefono": "+1-555-4604",
+    "Fecha_Registro": "2023-08-18",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0052",
+    "Nombre": "María Pérez",
+    "Segmento": "PyME",
+    "Email": "maría.pérez@mail.com",
+    "Telefono": "+1-555-5328",
+    "Fecha_Registro": "2023-04-19",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0053",
+    "Nombre": "Elena Torres",
+    "Segmento": "Empresas",
+    "Email": "elena.torres@mail.com",
+    "Telefono": "+1-555-2339",
+    "Fecha_Registro": "2022-01-15",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0054",
+    "Nombre": "Juan Torres",
+    "Segmento": "Empresas",
+    "Email": "juan.torres@mail.com",
+    "Telefono": "+1-555-6197",
+    "Fecha_Registro": "2023-01-29",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0055",
+    "Nombre": "Pedro Hernández",
+    "Segmento": "Particulares",
+    "Email": "pedro.hernández@mail.com",
+    "Telefono": "+1-555-6651",
+    "Fecha_Registro": "2024-05-23",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0056",
+    "Nombre": "Ana Silva",
+    "Segmento": "Empresas",
+    "Email": "ana.silva@mail.com",
+    "Telefono": "+1-555-7529",
+    "Fecha_Registro": "2022-07-31",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0057",
+    "Nombre": "Pablo Vargas",
+    "Segmento": "PyME",
+    "Email": "pablo.vargas@mail.com",
+    "Telefono": "+1-555-6337",
+    "Fecha_Registro": "2023-03-26",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0058",
+    "Nombre": "Laura Silva",
+    "Segmento": "Empresas",
+    "Email": "laura.silva@mail.com",
+    "Telefono": "+1-555-4409",
+    "Fecha_Registro": "2024-01-06",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0059",
+    "Nombre": "Marcos Silva",
+    "Segmento": "Empresas",
+    "Email": "marcos.silva@mail.com",
+    "Telefono": "+1-555-2555",
+    "Fecha_Registro": "2022-06-07",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0060",
+    "Nombre": "Laura López",
+    "Segmento": "Particulares",
+    "Email": "laura.lópez@mail.com",
+    "Telefono": "+1-555-4109",
+    "Fecha_Registro": "2022-12-03",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0061",
+    "Nombre": "Pablo Fernández",
+    "Segmento": "PyME",
+    "Email": "pablo.fernández@mail.com",
+    "Telefono": "+1-555-5520",
+    "Fecha_Registro": "2023-04-07",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0062",
+    "Nombre": "Diego García",
+    "Segmento": "PyME",
+    "Email": "diego.garcía@mail.com",
+    "Telefono": "+1-555-6952",
+    "Fecha_Registro": "2022-09-19",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0063",
+    "Nombre": "Valeria Hernández",
+    "Segmento": "PyME",
+    "Email": "valeria.hernández@mail.com",
+    "Telefono": "+1-555-2740",
+    "Fecha_Registro": "2023-12-09",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0064",
+    "Nombre": "Miguel Torres",
+    "Segmento": "Particulares",
+    "Email": "miguel.torres@mail.com",
+    "Telefono": "+1-555-3073",
+    "Fecha_Registro": "2023-08-23",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0065",
+    "Nombre": "Miguel Hernández",
+    "Segmento": "PyME",
+    "Email": "miguel.hernández@mail.com",
+    "Telefono": "+1-555-2570",
+    "Fecha_Registro": "2023-06-30",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0066",
+    "Nombre": "Javier Hernández",
+    "Segmento": "Particulares",
+    "Email": "javier.hernández@mail.com",
+    "Telefono": "+1-555-8941",
+    "Fecha_Registro": "2024-06-01",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0067",
+    "Nombre": "Rocío González",
+    "Segmento": "Particulares",
+    "Email": "rocío.gonzález@mail.com",
+    "Telefono": "+1-555-8851",
+    "Fecha_Registro": "2023-10-26",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0068",
+    "Nombre": "María López",
+    "Segmento": "Particulares",
+    "Email": "maría.lópez@mail.com",
+    "Telefono": "+1-555-4694",
+    "Fecha_Registro": "2022-04-08",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0069",
+    "Nombre": "Ana Pérez",
+    "Segmento": "Empresas",
+    "Email": "ana.pérez@mail.com",
+    "Telefono": "+1-555-1920",
+    "Fecha_Registro": "2022-12-21",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0070",
+    "Nombre": "Pedro Martínez",
+    "Segmento": "Empresas",
+    "Email": "pedro.martínez@mail.com",
+    "Telefono": "+1-555-4160",
+    "Fecha_Registro": "2024-01-09",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0071",
+    "Nombre": "Pedro López",
+    "Segmento": "PyME",
+    "Email": "pedro.lópez@mail.com",
+    "Telefono": "+1-555-8052",
+    "Fecha_Registro": "2023-03-22",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0072",
+    "Nombre": "Lucía Hernández",
+    "Segmento": "Particulares",
+    "Email": "lucía.hernández@mail.com",
+    "Telefono": "+1-555-6699",
+    "Fecha_Registro": "2022-02-11",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0073",
+    "Nombre": "Carlos Castro",
+    "Segmento": "PyME",
+    "Email": "carlos.castro@mail.com",
+    "Telefono": "+1-555-3082",
+    "Fecha_Registro": "2022-04-10",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0074",
+    "Nombre": "Diego Castro",
+    "Segmento": "PyME",
+    "Email": "diego.castro@mail.com",
+    "Telefono": "+1-555-9193",
+    "Fecha_Registro": "2023-06-10",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0075",
+    "Nombre": "Diego García",
+    "Segmento": "Empresas",
+    "Email": "diego.garcía@mail.com",
+    "Telefono": "+1-555-8236",
+    "Fecha_Registro": "2023-01-25",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0076",
+    "Nombre": "Lucía González",
+    "Segmento": "Empresas",
+    "Email": "lucía.gonzález@mail.com",
+    "Telefono": "+1-555-8568",
+    "Fecha_Registro": "2023-08-31",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0077",
+    "Nombre": "Pedro Silva",
+    "Segmento": "PyME",
+    "Email": "pedro.silva@mail.com",
+    "Telefono": "+1-555-5075",
+    "Fecha_Registro": "2022-10-03",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0078",
+    "Nombre": "Pedro Vargas",
+    "Segmento": "Empresas",
+    "Email": "pedro.vargas@mail.com",
+    "Telefono": "+1-555-2470",
+    "Fecha_Registro": "2022-08-30",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0079",
+    "Nombre": "Rocío Martínez",
+    "Segmento": "Particulares",
+    "Email": "rocío.martínez@mail.com",
+    "Telefono": "+1-555-7449",
+    "Fecha_Registro": "2024-03-01",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0080",
+    "Nombre": "Ana Fernández",
+    "Segmento": "PyME",
+    "Email": "ana.fernández@mail.com",
+    "Telefono": "+1-555-5231",
+    "Fecha_Registro": "2024-05-02",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0081",
+    "Nombre": "Lucía Pérez",
+    "Segmento": "Empresas",
+    "Email": "lucía.pérez@mail.com",
+    "Telefono": "+1-555-4261",
+    "Fecha_Registro": "2022-12-16",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0082",
+    "Nombre": "Sofía Ramírez",
+    "Segmento": "Particulares",
+    "Email": "sofía.ramírez@mail.com",
+    "Telefono": "+1-555-3286",
+    "Fecha_Registro": "2022-04-25",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0083",
+    "Nombre": "Rocío Martínez",
+    "Segmento": "Particulares",
+    "Email": "rocío.martínez@mail.com",
+    "Telefono": "+1-555-9053",
+    "Fecha_Registro": "2023-12-31",
+    "Pais": "Argentina",
+    "Ciudad": "Rosario"
+  },
+  {
+    "ID_Cliente": "C0084",
+    "Nombre": "Lucía Martínez",
+    "Segmento": "Empresas",
+    "Email": "lucía.martínez@mail.com",
+    "Telefono": "+1-555-8891",
+    "Fecha_Registro": "2022-11-05",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0085",
+    "Nombre": "Marcos Castro",
+    "Segmento": "PyME",
+    "Email": "marcos.castro@mail.com",
+    "Telefono": "+1-555-2694",
+    "Fecha_Registro": "2024-06-08",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0086",
+    "Nombre": "Diego Torres",
+    "Segmento": "Empresas",
+    "Email": "diego.torres@mail.com",
+    "Telefono": "+1-555-2390",
+    "Fecha_Registro": "2022-07-05",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0087",
+    "Nombre": "Elena González",
+    "Segmento": "Empresas",
+    "Email": "elena.gonzález@mail.com",
+    "Telefono": "+1-555-9146",
+    "Fecha_Registro": "2023-07-07",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0088",
+    "Nombre": "Ana Hernández",
+    "Segmento": "Empresas",
+    "Email": "ana.hernández@mail.com",
+    "Telefono": "+1-555-6659",
+    "Fecha_Registro": "2022-07-06",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0089",
+    "Nombre": "Sofía Hernández",
+    "Segmento": "Empresas",
+    "Email": "sofía.hernández@mail.com",
+    "Telefono": "+1-555-5718",
+    "Fecha_Registro": "2023-03-17",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0090",
+    "Nombre": "Javier Martínez",
+    "Segmento": "Particulares",
+    "Email": "javier.martínez@mail.com",
+    "Telefono": "+1-555-4247",
+    "Fecha_Registro": "2024-01-06",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0091",
+    "Nombre": "Lucía López",
+    "Segmento": "Particulares",
+    "Email": "lucía.lópez@mail.com",
+    "Telefono": "+1-555-7192",
+    "Fecha_Registro": "2022-02-22",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0092",
+    "Nombre": "Sofía Pérez",
+    "Segmento": "PyME",
+    "Email": "sofía.pérez@mail.com",
+    "Telefono": "+1-555-9860",
+    "Fecha_Registro": "2022-06-07",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0093",
+    "Nombre": "Sofía González",
+    "Segmento": "Empresas",
+    "Email": "sofía.gonzález@mail.com",
+    "Telefono": "+1-555-1678",
+    "Fecha_Registro": "2023-03-25",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0094",
+    "Nombre": "Sofía Pérez",
+    "Segmento": "Empresas",
+    "Email": "sofía.pérez@mail.com",
+    "Telefono": "+1-555-8558",
+    "Fecha_Registro": "2022-08-07",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0095",
+    "Nombre": "Sofía Torres",
+    "Segmento": "PyME",
+    "Email": "sofía.torres@mail.com",
+    "Telefono": "+1-555-9463",
+    "Fecha_Registro": "2022-02-26",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0096",
+    "Nombre": "Miguel Torres",
+    "Segmento": "PyME",
+    "Email": "miguel.torres@mail.com",
+    "Telefono": "+1-555-6132",
+    "Fecha_Registro": "2023-11-30",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0097",
+    "Nombre": "Lucía Torres",
+    "Segmento": "Particulares",
+    "Email": "lucía.torres@mail.com",
+    "Telefono": "+1-555-3181",
+    "Fecha_Registro": "2023-04-05",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0098",
+    "Nombre": "Javier González",
+    "Segmento": "Empresas",
+    "Email": "javier.gonzález@mail.com",
+    "Telefono": "+1-555-6210",
+    "Fecha_Registro": "2024-03-21",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0099",
+    "Nombre": "Elena Hernández",
+    "Segmento": "Empresas",
+    "Email": "elena.hernández@mail.com",
+    "Telefono": "+1-555-1506",
+    "Fecha_Registro": "2024-01-10",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0100",
+    "Nombre": "Ana Fernández",
+    "Segmento": "Particulares",
+    "Email": "ana.fernández@mail.com",
+    "Telefono": "+1-555-1433",
+    "Fecha_Registro": "2022-12-02",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0101",
+    "Nombre": "Lucía García",
+    "Segmento": "PyME",
+    "Email": "lucía.garcía@mail.com",
+    "Telefono": "+1-555-1283",
+    "Fecha_Registro": "2023-06-22",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0102",
+    "Nombre": "Laura López",
+    "Segmento": "Empresas",
+    "Email": "laura.lópez@mail.com",
+    "Telefono": "+1-555-3017",
+    "Fecha_Registro": "2024-05-24",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0103",
+    "Nombre": "Elena Ramírez",
+    "Segmento": "Particulares",
+    "Email": "elena.ramírez@mail.com",
+    "Telefono": "+1-555-3169",
+    "Fecha_Registro": "2024-02-11",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0104",
+    "Nombre": "Elena Pérez",
+    "Segmento": "Particulares",
+    "Email": "elena.pérez@mail.com",
+    "Telefono": "+1-555-9919",
+    "Fecha_Registro": "2023-08-17",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0105",
+    "Nombre": "Laura González",
+    "Segmento": "Empresas",
+    "Email": "laura.gonzález@mail.com",
+    "Telefono": "+1-555-2517",
+    "Fecha_Registro": "2023-07-04",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0106",
+    "Nombre": "Diego Pérez",
+    "Segmento": "Particulares",
+    "Email": "diego.pérez@mail.com",
+    "Telefono": "+1-555-4236",
+    "Fecha_Registro": "2024-04-02",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0107",
+    "Nombre": "María García",
+    "Segmento": "Particulares",
+    "Email": "maría.garcía@mail.com",
+    "Telefono": "+1-555-9472",
+    "Fecha_Registro": "2022-03-24",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0108",
+    "Nombre": "Elena Castro",
+    "Segmento": "Empresas",
+    "Email": "elena.castro@mail.com",
+    "Telefono": "+1-555-7028",
+    "Fecha_Registro": "2024-03-06",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0109",
+    "Nombre": "Laura González",
+    "Segmento": "Particulares",
+    "Email": "laura.gonzález@mail.com",
+    "Telefono": "+1-555-3056",
+    "Fecha_Registro": "2022-09-03",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0110",
+    "Nombre": "Miguel González",
+    "Segmento": "Empresas",
+    "Email": "miguel.gonzález@mail.com",
+    "Telefono": "+1-555-6266",
+    "Fecha_Registro": "2023-04-28",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0111",
+    "Nombre": "Pablo López",
+    "Segmento": "PyME",
+    "Email": "pablo.lópez@mail.com",
+    "Telefono": "+1-555-2783",
+    "Fecha_Registro": "2022-07-19",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0112",
+    "Nombre": "Javier Torres",
+    "Segmento": "Empresas",
+    "Email": "javier.torres@mail.com",
+    "Telefono": "+1-555-5158",
+    "Fecha_Registro": "2023-07-14",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0113",
+    "Nombre": "Ana Silva",
+    "Segmento": "Empresas",
+    "Email": "ana.silva@mail.com",
+    "Telefono": "+1-555-6157",
+    "Fecha_Registro": "2023-09-05",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0114",
+    "Nombre": "Juan Pérez",
+    "Segmento": "PyME",
+    "Email": "juan.pérez@mail.com",
+    "Telefono": "+1-555-1461",
+    "Fecha_Registro": "2023-05-09",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0115",
+    "Nombre": "Pedro López",
+    "Segmento": "PyME",
+    "Email": "pedro.lópez@mail.com",
+    "Telefono": "+1-555-3891",
+    "Fecha_Registro": "2023-07-30",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0116",
+    "Nombre": "María López",
+    "Segmento": "Empresas",
+    "Email": "maría.lópez@mail.com",
+    "Telefono": "+1-555-5690",
+    "Fecha_Registro": "2024-01-06",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0117",
+    "Nombre": "Sofía Hernández",
+    "Segmento": "Empresas",
+    "Email": "sofía.hernández@mail.com",
+    "Telefono": "+1-555-8385",
+    "Fecha_Registro": "2023-02-16",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0118",
+    "Nombre": "Ana Castro",
+    "Segmento": "Particulares",
+    "Email": "ana.castro@mail.com",
+    "Telefono": "+1-555-4964",
+    "Fecha_Registro": "2023-07-18",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0119",
+    "Nombre": "Lucía Hernández",
+    "Segmento": "Particulares",
+    "Email": "lucía.hernández@mail.com",
+    "Telefono": "+1-555-7013",
+    "Fecha_Registro": "2024-04-14",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0120",
+    "Nombre": "Javier González",
+    "Segmento": "Empresas",
+    "Email": "javier.gonzález@mail.com",
+    "Telefono": "+1-555-9759",
+    "Fecha_Registro": "2022-01-11",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0121",
+    "Nombre": "Sofía Torres",
+    "Segmento": "Empresas",
+    "Email": "sofía.torres@mail.com",
+    "Telefono": "+1-555-1077",
+    "Fecha_Registro": "2022-06-09",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0122",
+    "Nombre": "Laura Silva",
+    "Segmento": "PyME",
+    "Email": "laura.silva@mail.com",
+    "Telefono": "+1-555-6920",
+    "Fecha_Registro": "2022-02-09",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0123",
+    "Nombre": "Diego Ramírez",
+    "Segmento": "PyME",
+    "Email": "diego.ramírez@mail.com",
+    "Telefono": "+1-555-7021",
+    "Fecha_Registro": "2024-01-14",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0124",
+    "Nombre": "Sofía Torres",
+    "Segmento": "PyME",
+    "Email": "sofía.torres@mail.com",
+    "Telefono": "+1-555-1921",
+    "Fecha_Registro": "2023-05-20",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0125",
+    "Nombre": "Javier García",
+    "Segmento": "Empresas",
+    "Email": "javier.garcía@mail.com",
+    "Telefono": "+1-555-9259",
+    "Fecha_Registro": "2023-09-28",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0126",
+    "Nombre": "Lucía Torres",
+    "Segmento": "PyME",
+    "Email": "lucía.torres@mail.com",
+    "Telefono": "+1-555-3232",
+    "Fecha_Registro": "2022-06-10",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0127",
+    "Nombre": "Ana Torres",
+    "Segmento": "Particulares",
+    "Email": "ana.torres@mail.com",
+    "Telefono": "+1-555-2022",
+    "Fecha_Registro": "2022-01-20",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0128",
+    "Nombre": "Rocío Fernández",
+    "Segmento": "PyME",
+    "Email": "rocío.fernández@mail.com",
+    "Telefono": "+1-555-3238",
+    "Fecha_Registro": "2023-02-13",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0129",
+    "Nombre": "Valeria Pérez",
+    "Segmento": "Particulares",
+    "Email": "valeria.pérez@mail.com",
+    "Telefono": "+1-555-2988",
+    "Fecha_Registro": "2022-12-03",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0130",
+    "Nombre": "Valeria Silva",
+    "Segmento": "PyME",
+    "Email": "valeria.silva@mail.com",
+    "Telefono": "+1-555-3057",
+    "Fecha_Registro": "2022-03-31",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0131",
+    "Nombre": "Pablo Torres",
+    "Segmento": "Particulares",
+    "Email": "pablo.torres@mail.com",
+    "Telefono": "+1-555-5047",
+    "Fecha_Registro": "2023-05-30",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0132",
+    "Nombre": "Rocío Martínez",
+    "Segmento": "PyME",
+    "Email": "rocío.martínez@mail.com",
+    "Telefono": "+1-555-8796",
+    "Fecha_Registro": "2023-12-25",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0133",
+    "Nombre": "Ana Ramírez",
+    "Segmento": "Empresas",
+    "Email": "ana.ramírez@mail.com",
+    "Telefono": "+1-555-4678",
+    "Fecha_Registro": "2022-08-18",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0134",
+    "Nombre": "Marcos Silva",
+    "Segmento": "Particulares",
+    "Email": "marcos.silva@mail.com",
+    "Telefono": "+1-555-9343",
+    "Fecha_Registro": "2023-07-01",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0135",
+    "Nombre": "Lucía García",
+    "Segmento": "Particulares",
+    "Email": "lucía.garcía@mail.com",
+    "Telefono": "+1-555-1791",
+    "Fecha_Registro": "2023-08-24",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0136",
+    "Nombre": "Rocío Pérez",
+    "Segmento": "Empresas",
+    "Email": "rocío.pérez@mail.com",
+    "Telefono": "+1-555-8385",
+    "Fecha_Registro": "2023-11-29",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0137",
+    "Nombre": "Pablo Ramírez",
+    "Segmento": "PyME",
+    "Email": "pablo.ramírez@mail.com",
+    "Telefono": "+1-555-5520",
+    "Fecha_Registro": "2023-02-27",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0138",
+    "Nombre": "Sofía Ramírez",
+    "Segmento": "PyME",
+    "Email": "sofía.ramírez@mail.com",
+    "Telefono": "+1-555-9230",
+    "Fecha_Registro": "2023-03-22",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0139",
+    "Nombre": "Pedro Silva",
+    "Segmento": "Empresas",
+    "Email": "pedro.silva@mail.com",
+    "Telefono": "+1-555-2522",
+    "Fecha_Registro": "2023-01-12",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0140",
+    "Nombre": "Javier Vargas",
+    "Segmento": "Particulares",
+    "Email": "javier.vargas@mail.com",
+    "Telefono": "+1-555-5915",
+    "Fecha_Registro": "2023-12-25",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0141",
+    "Nombre": "Marcos Silva",
+    "Segmento": "PyME",
+    "Email": "marcos.silva@mail.com",
+    "Telefono": "+1-555-9251",
+    "Fecha_Registro": "2022-05-28",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0142",
+    "Nombre": "Sofía Martínez",
+    "Segmento": "Particulares",
+    "Email": "sofía.martínez@mail.com",
+    "Telefono": "+1-555-9360",
+    "Fecha_Registro": "2022-05-26",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0143",
+    "Nombre": "Valeria Castro",
+    "Segmento": "Particulares",
+    "Email": "valeria.castro@mail.com",
+    "Telefono": "+1-555-3602",
+    "Fecha_Registro": "2023-12-09",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0144",
+    "Nombre": "Laura Pérez",
+    "Segmento": "Particulares",
+    "Email": "laura.pérez@mail.com",
+    "Telefono": "+1-555-4197",
+    "Fecha_Registro": "2022-12-19",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0145",
+    "Nombre": "Rocío Pérez",
+    "Segmento": "Empresas",
+    "Email": "rocío.pérez@mail.com",
+    "Telefono": "+1-555-8714",
+    "Fecha_Registro": "2022-06-11",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0146",
+    "Nombre": "Marcos Castro",
+    "Segmento": "Empresas",
+    "Email": "marcos.castro@mail.com",
+    "Telefono": "+1-555-1288",
+    "Fecha_Registro": "2022-05-15",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0147",
+    "Nombre": "Rocío López",
+    "Segmento": "PyME",
+    "Email": "rocío.lópez@mail.com",
+    "Telefono": "+1-555-1966",
+    "Fecha_Registro": "2022-09-11",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0148",
+    "Nombre": "Marcos Martínez",
+    "Segmento": "PyME",
+    "Email": "marcos.martínez@mail.com",
+    "Telefono": "+1-555-4602",
+    "Fecha_Registro": "2022-01-28",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0149",
+    "Nombre": "Lucía Silva",
+    "Segmento": "PyME",
+    "Email": "lucía.silva@mail.com",
+    "Telefono": "+1-555-2451",
+    "Fecha_Registro": "2023-06-20",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0150",
+    "Nombre": "Pedro Ramírez",
+    "Segmento": "Empresas",
+    "Email": "pedro.ramírez@mail.com",
+    "Telefono": "+1-555-2039",
+    "Fecha_Registro": "2024-01-05",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0151",
+    "Nombre": "Ana Hernández",
+    "Segmento": "Particulares",
+    "Email": "ana.hernández@mail.com",
+    "Telefono": "+1-555-8247",
+    "Fecha_Registro": "2022-09-26",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0152",
+    "Nombre": "Lucía González",
+    "Segmento": "Particulares",
+    "Email": "lucía.gonzález@mail.com",
+    "Telefono": "+1-555-8903",
+    "Fecha_Registro": "2024-06-04",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0153",
+    "Nombre": "Ana Ramírez",
+    "Segmento": "Empresas",
+    "Email": "ana.ramírez@mail.com",
+    "Telefono": "+1-555-8465",
+    "Fecha_Registro": "2022-01-11",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0154",
+    "Nombre": "Pedro Fernández",
+    "Segmento": "Particulares",
+    "Email": "pedro.fernández@mail.com",
+    "Telefono": "+1-555-3268",
+    "Fecha_Registro": "2022-07-26",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0155",
+    "Nombre": "Pedro Pérez",
+    "Segmento": "Empresas",
+    "Email": "pedro.pérez@mail.com",
+    "Telefono": "+1-555-5234",
+    "Fecha_Registro": "2022-12-09",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0156",
+    "Nombre": "Lucía Hernández",
+    "Segmento": "Empresas",
+    "Email": "lucía.hernández@mail.com",
+    "Telefono": "+1-555-8400",
+    "Fecha_Registro": "2023-02-28",
+    "Pais": "Argentina",
+    "Ciudad": "Rosario"
+  },
+  {
+    "ID_Cliente": "C0157",
+    "Nombre": "Ana Ramírez",
+    "Segmento": "Empresas",
+    "Email": "ana.ramírez@mail.com",
+    "Telefono": "+1-555-2659",
+    "Fecha_Registro": "2022-04-10",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0158",
+    "Nombre": "Ana Ramírez",
+    "Segmento": "Empresas",
+    "Email": "ana.ramírez@mail.com",
+    "Telefono": "+1-555-2843",
+    "Fecha_Registro": "2024-02-19",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0159",
+    "Nombre": "Marcos Torres",
+    "Segmento": "Empresas",
+    "Email": "marcos.torres@mail.com",
+    "Telefono": "+1-555-3087",
+    "Fecha_Registro": "2022-11-27",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0160",
+    "Nombre": "Pablo Vargas",
+    "Segmento": "Empresas",
+    "Email": "pablo.vargas@mail.com",
+    "Telefono": "+1-555-9929",
+    "Fecha_Registro": "2024-04-12",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0161",
+    "Nombre": "Pedro Vargas",
+    "Segmento": "Empresas",
+    "Email": "pedro.vargas@mail.com",
+    "Telefono": "+1-555-6536",
+    "Fecha_Registro": "2022-12-04",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0162",
+    "Nombre": "Juan Fernández",
+    "Segmento": "Particulares",
+    "Email": "juan.fernández@mail.com",
+    "Telefono": "+1-555-6602",
+    "Fecha_Registro": "2022-09-23",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0163",
+    "Nombre": "María García",
+    "Segmento": "Particulares",
+    "Email": "maría.garcía@mail.com",
+    "Telefono": "+1-555-8942",
+    "Fecha_Registro": "2022-06-18",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0164",
+    "Nombre": "Rocío López",
+    "Segmento": "Particulares",
+    "Email": "rocío.lópez@mail.com",
+    "Telefono": "+1-555-4168",
+    "Fecha_Registro": "2024-01-16",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0165",
+    "Nombre": "Valeria Martínez",
+    "Segmento": "PyME",
+    "Email": "valeria.martínez@mail.com",
+    "Telefono": "+1-555-8978",
+    "Fecha_Registro": "2024-02-22",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0166",
+    "Nombre": "Laura González",
+    "Segmento": "Empresas",
+    "Email": "laura.gonzález@mail.com",
+    "Telefono": "+1-555-4145",
+    "Fecha_Registro": "2024-06-07",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0167",
+    "Nombre": "Ana García",
+    "Segmento": "Empresas",
+    "Email": "ana.garcía@mail.com",
+    "Telefono": "+1-555-5671",
+    "Fecha_Registro": "2022-05-29",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0168",
+    "Nombre": "Pedro Hernández",
+    "Segmento": "PyME",
+    "Email": "pedro.hernández@mail.com",
+    "Telefono": "+1-555-9455",
+    "Fecha_Registro": "2022-10-20",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0169",
+    "Nombre": "Miguel López",
+    "Segmento": "Particulares",
+    "Email": "miguel.lópez@mail.com",
+    "Telefono": "+1-555-3740",
+    "Fecha_Registro": "2022-09-09",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0170",
+    "Nombre": "Laura Silva",
+    "Segmento": "PyME",
+    "Email": "laura.silva@mail.com",
+    "Telefono": "+1-555-7137",
+    "Fecha_Registro": "2022-01-04",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0171",
+    "Nombre": "Lucía Vargas",
+    "Segmento": "PyME",
+    "Email": "lucía.vargas@mail.com",
+    "Telefono": "+1-555-3104",
+    "Fecha_Registro": "2023-11-15",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0172",
+    "Nombre": "María González",
+    "Segmento": "Particulares",
+    "Email": "maría.gonzález@mail.com",
+    "Telefono": "+1-555-4596",
+    "Fecha_Registro": "2022-12-31",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0173",
+    "Nombre": "Marcos Pérez",
+    "Segmento": "PyME",
+    "Email": "marcos.pérez@mail.com",
+    "Telefono": "+1-555-7867",
+    "Fecha_Registro": "2022-05-17",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0174",
+    "Nombre": "María Fernández",
+    "Segmento": "Particulares",
+    "Email": "maría.fernández@mail.com",
+    "Telefono": "+1-555-8334",
+    "Fecha_Registro": "2022-08-22",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0175",
+    "Nombre": "Pablo Hernández",
+    "Segmento": "PyME",
+    "Email": "pablo.hernández@mail.com",
+    "Telefono": "+1-555-2038",
+    "Fecha_Registro": "2024-03-05",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0176",
+    "Nombre": "Juan Silva",
+    "Segmento": "Empresas",
+    "Email": "juan.silva@mail.com",
+    "Telefono": "+1-555-8561",
+    "Fecha_Registro": "2023-11-14",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0177",
+    "Nombre": "Laura Torres",
+    "Segmento": "Particulares",
+    "Email": "laura.torres@mail.com",
+    "Telefono": "+1-555-8660",
+    "Fecha_Registro": "2022-03-20",
+    "Pais": "Argentina",
+    "Ciudad": "Rosario"
+  },
+  {
+    "ID_Cliente": "C0178",
+    "Nombre": "Valeria García",
+    "Segmento": "PyME",
+    "Email": "valeria.garcía@mail.com",
+    "Telefono": "+1-555-9166",
+    "Fecha_Registro": "2023-08-25",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0179",
+    "Nombre": "María Torres",
+    "Segmento": "PyME",
+    "Email": "maría.torres@mail.com",
+    "Telefono": "+1-555-3363",
+    "Fecha_Registro": "2022-12-20",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0180",
+    "Nombre": "Carlos Vargas",
+    "Segmento": "PyME",
+    "Email": "carlos.vargas@mail.com",
+    "Telefono": "+1-555-4643",
+    "Fecha_Registro": "2022-10-09",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0181",
+    "Nombre": "Ana Martínez",
+    "Segmento": "PyME",
+    "Email": "ana.martínez@mail.com",
+    "Telefono": "+1-555-2970",
+    "Fecha_Registro": "2023-11-24",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0182",
+    "Nombre": "María García",
+    "Segmento": "Empresas",
+    "Email": "maría.garcía@mail.com",
+    "Telefono": "+1-555-7256",
+    "Fecha_Registro": "2022-01-26",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0183",
+    "Nombre": "Pablo Hernández",
+    "Segmento": "Particulares",
+    "Email": "pablo.hernández@mail.com",
+    "Telefono": "+1-555-3946",
+    "Fecha_Registro": "2022-09-10",
+    "Pais": "Argentina",
+    "Ciudad": "Rosario"
+  },
+  {
+    "ID_Cliente": "C0184",
+    "Nombre": "Rocío Torres",
+    "Segmento": "Particulares",
+    "Email": "rocío.torres@mail.com",
+    "Telefono": "+1-555-7425",
+    "Fecha_Registro": "2023-04-30",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0185",
+    "Nombre": "María García",
+    "Segmento": "Empresas",
+    "Email": "maría.garcía@mail.com",
+    "Telefono": "+1-555-3635",
+    "Fecha_Registro": "2023-08-22",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0186",
+    "Nombre": "Laura Silva",
+    "Segmento": "Empresas",
+    "Email": "laura.silva@mail.com",
+    "Telefono": "+1-555-7994",
+    "Fecha_Registro": "2022-12-18",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0187",
+    "Nombre": "Elena Pérez",
+    "Segmento": "PyME",
+    "Email": "elena.pérez@mail.com",
+    "Telefono": "+1-555-2576",
+    "Fecha_Registro": "2024-04-11",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0188",
+    "Nombre": "Elena Pérez",
+    "Segmento": "PyME",
+    "Email": "elena.pérez@mail.com",
+    "Telefono": "+1-555-1245",
+    "Fecha_Registro": "2022-10-28",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0189",
+    "Nombre": "Elena García",
+    "Segmento": "Particulares",
+    "Email": "elena.garcía@mail.com",
+    "Telefono": "+1-555-3086",
+    "Fecha_Registro": "2024-04-15",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0190",
+    "Nombre": "Lucía Silva",
+    "Segmento": "Particulares",
+    "Email": "lucía.silva@mail.com",
+    "Telefono": "+1-555-6623",
+    "Fecha_Registro": "2024-04-28",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0191",
+    "Nombre": "Laura Silva",
+    "Segmento": "Empresas",
+    "Email": "laura.silva@mail.com",
+    "Telefono": "+1-555-6334",
+    "Fecha_Registro": "2022-11-04",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0192",
+    "Nombre": "Lucía González",
+    "Segmento": "Empresas",
+    "Email": "lucía.gonzález@mail.com",
+    "Telefono": "+1-555-1169",
+    "Fecha_Registro": "2022-02-01",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0193",
+    "Nombre": "Javier Ramírez",
+    "Segmento": "Empresas",
+    "Email": "javier.ramírez@mail.com",
+    "Telefono": "+1-555-8433",
+    "Fecha_Registro": "2022-12-07",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0194",
+    "Nombre": "María Martínez",
+    "Segmento": "Particulares",
+    "Email": "maría.martínez@mail.com",
+    "Telefono": "+1-555-4224",
+    "Fecha_Registro": "2023-06-16",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0195",
+    "Nombre": "Marcos Martínez",
+    "Segmento": "Particulares",
+    "Email": "marcos.martínez@mail.com",
+    "Telefono": "+1-555-7828",
+    "Fecha_Registro": "2023-01-26",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0196",
+    "Nombre": "Juan Vargas",
+    "Segmento": "Particulares",
+    "Email": "juan.vargas@mail.com",
+    "Telefono": "+1-555-8110",
+    "Fecha_Registro": "2024-02-19",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0197",
+    "Nombre": "Rocío Vargas",
+    "Segmento": "Particulares",
+    "Email": "rocío.vargas@mail.com",
+    "Telefono": "+1-555-2225",
+    "Fecha_Registro": "2024-04-24",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0198",
+    "Nombre": "Pedro Silva",
+    "Segmento": "PyME",
+    "Email": "pedro.silva@mail.com",
+    "Telefono": "+1-555-9063",
+    "Fecha_Registro": "2023-10-09",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0199",
+    "Nombre": "Pedro Vargas",
+    "Segmento": "PyME",
+    "Email": "pedro.vargas@mail.com",
+    "Telefono": "+1-555-7864",
+    "Fecha_Registro": "2024-05-13",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0200",
+    "Nombre": "Diego Fernández",
+    "Segmento": "PyME",
+    "Email": "diego.fernández@mail.com",
+    "Telefono": "+1-555-3380",
+    "Fecha_Registro": "2023-10-06",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0201",
+    "Nombre": "Javier Hernández",
+    "Segmento": "Empresas",
+    "Email": "javier.hernández@mail.com",
+    "Telefono": "+1-555-7335",
+    "Fecha_Registro": "2024-04-28",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0202",
+    "Nombre": "Pablo Pérez",
+    "Segmento": "Particulares",
+    "Email": "pablo.pérez@mail.com",
+    "Telefono": "+1-555-5499",
+    "Fecha_Registro": "2023-06-14",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0203",
+    "Nombre": "Carlos Pérez",
+    "Segmento": "Empresas",
+    "Email": "carlos.pérez@mail.com",
+    "Telefono": "+1-555-9608",
+    "Fecha_Registro": "2022-07-25",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0204",
+    "Nombre": "Pablo López",
+    "Segmento": "Particulares",
+    "Email": "pablo.lópez@mail.com",
+    "Telefono": "+1-555-2797",
+    "Fecha_Registro": "2022-12-12",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0205",
+    "Nombre": "María Ramírez",
+    "Segmento": "PyME",
+    "Email": "maría.ramírez@mail.com",
+    "Telefono": "+1-555-3235",
+    "Fecha_Registro": "2022-12-04",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0206",
+    "Nombre": "Pedro Pérez",
+    "Segmento": "Particulares",
+    "Email": "pedro.pérez@mail.com",
+    "Telefono": "+1-555-1964",
+    "Fecha_Registro": "2023-06-24",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0207",
+    "Nombre": "Javier Vargas",
+    "Segmento": "PyME",
+    "Email": "javier.vargas@mail.com",
+    "Telefono": "+1-555-1977",
+    "Fecha_Registro": "2022-08-22",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0208",
+    "Nombre": "Sofía Silva",
+    "Segmento": "PyME",
+    "Email": "sofía.silva@mail.com",
+    "Telefono": "+1-555-2980",
+    "Fecha_Registro": "2023-03-10",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0209",
+    "Nombre": "Valeria Pérez",
+    "Segmento": "Particulares",
+    "Email": "valeria.pérez@mail.com",
+    "Telefono": "+1-555-5117",
+    "Fecha_Registro": "2023-04-30",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0210",
+    "Nombre": "Lucía Silva",
+    "Segmento": "Empresas",
+    "Email": "lucía.silva@mail.com",
+    "Telefono": "+1-555-9515",
+    "Fecha_Registro": "2023-04-20",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0211",
+    "Nombre": "Valeria Ramírez",
+    "Segmento": "Particulares",
+    "Email": "valeria.ramírez@mail.com",
+    "Telefono": "+1-555-4348",
+    "Fecha_Registro": "2022-07-31",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0212",
+    "Nombre": "Juan Pérez",
+    "Segmento": "PyME",
+    "Email": "juan.pérez@mail.com",
+    "Telefono": "+1-555-5684",
+    "Fecha_Registro": "2022-05-31",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0213",
+    "Nombre": "Laura Vargas",
+    "Segmento": "Empresas",
+    "Email": "laura.vargas@mail.com",
+    "Telefono": "+1-555-8089",
+    "Fecha_Registro": "2022-05-25",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0214",
+    "Nombre": "Valeria Ramírez",
+    "Segmento": "Particulares",
+    "Email": "valeria.ramírez@mail.com",
+    "Telefono": "+1-555-2998",
+    "Fecha_Registro": "2022-07-10",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0215",
+    "Nombre": "Valeria Pérez",
+    "Segmento": "Empresas",
+    "Email": "valeria.pérez@mail.com",
+    "Telefono": "+1-555-5048",
+    "Fecha_Registro": "2024-01-13",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0216",
+    "Nombre": "Lucía Ramírez",
+    "Segmento": "PyME",
+    "Email": "lucía.ramírez@mail.com",
+    "Telefono": "+1-555-6314",
+    "Fecha_Registro": "2023-11-30",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0217",
+    "Nombre": "Pedro López",
+    "Segmento": "PyME",
+    "Email": "pedro.lópez@mail.com",
+    "Telefono": "+1-555-7037",
+    "Fecha_Registro": "2024-01-19",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0218",
+    "Nombre": "Pablo Pérez",
+    "Segmento": "Particulares",
+    "Email": "pablo.pérez@mail.com",
+    "Telefono": "+1-555-3948",
+    "Fecha_Registro": "2023-12-18",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0219",
+    "Nombre": "Rocío González",
+    "Segmento": "PyME",
+    "Email": "rocío.gonzález@mail.com",
+    "Telefono": "+1-555-5068",
+    "Fecha_Registro": "2022-04-02",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0220",
+    "Nombre": "Laura Pérez",
+    "Segmento": "PyME",
+    "Email": "laura.pérez@mail.com",
+    "Telefono": "+1-555-4621",
+    "Fecha_Registro": "2023-09-24",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0221",
+    "Nombre": "Valeria Ramírez",
+    "Segmento": "PyME",
+    "Email": "valeria.ramírez@mail.com",
+    "Telefono": "+1-555-5635",
+    "Fecha_Registro": "2023-05-19",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0222",
+    "Nombre": "Lucía López",
+    "Segmento": "Particulares",
+    "Email": "lucía.lópez@mail.com",
+    "Telefono": "+1-555-1442",
+    "Fecha_Registro": "2024-05-29",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0223",
+    "Nombre": "Pablo Pérez",
+    "Segmento": "PyME",
+    "Email": "pablo.pérez@mail.com",
+    "Telefono": "+1-555-3128",
+    "Fecha_Registro": "2023-06-20",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0224",
+    "Nombre": "Lucía García",
+    "Segmento": "PyME",
+    "Email": "lucía.garcía@mail.com",
+    "Telefono": "+1-555-7255",
+    "Fecha_Registro": "2022-04-21",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0225",
+    "Nombre": "Carlos García",
+    "Segmento": "Particulares",
+    "Email": "carlos.garcía@mail.com",
+    "Telefono": "+1-555-8799",
+    "Fecha_Registro": "2023-10-23",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0226",
+    "Nombre": "Valeria Torres",
+    "Segmento": "Empresas",
+    "Email": "valeria.torres@mail.com",
+    "Telefono": "+1-555-8012",
+    "Fecha_Registro": "2023-08-06",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0227",
+    "Nombre": "Miguel Torres",
+    "Segmento": "PyME",
+    "Email": "miguel.torres@mail.com",
+    "Telefono": "+1-555-5280",
+    "Fecha_Registro": "2023-11-10",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0228",
+    "Nombre": "Juan Torres",
+    "Segmento": "Particulares",
+    "Email": "juan.torres@mail.com",
+    "Telefono": "+1-555-1493",
+    "Fecha_Registro": "2022-05-30",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0229",
+    "Nombre": "Elena Torres",
+    "Segmento": "PyME",
+    "Email": "elena.torres@mail.com",
+    "Telefono": "+1-555-3990",
+    "Fecha_Registro": "2024-03-25",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0230",
+    "Nombre": "Elena Silva",
+    "Segmento": "PyME",
+    "Email": "elena.silva@mail.com",
+    "Telefono": "+1-555-3983",
+    "Fecha_Registro": "2022-07-04",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0231",
+    "Nombre": "Pablo Fernández",
+    "Segmento": "Empresas",
+    "Email": "pablo.fernández@mail.com",
+    "Telefono": "+1-555-4656",
+    "Fecha_Registro": "2024-06-16",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0232",
+    "Nombre": "Carlos Ramírez",
+    "Segmento": "PyME",
+    "Email": "carlos.ramírez@mail.com",
+    "Telefono": "+1-555-3754",
+    "Fecha_Registro": "2024-03-01",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0233",
+    "Nombre": "Sofía González",
+    "Segmento": "Particulares",
+    "Email": "sofía.gonzález@mail.com",
+    "Telefono": "+1-555-5270",
+    "Fecha_Registro": "2023-04-11",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0234",
+    "Nombre": "María Hernández",
+    "Segmento": "PyME",
+    "Email": "maría.hernández@mail.com",
+    "Telefono": "+1-555-9167",
+    "Fecha_Registro": "2022-12-21",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0235",
+    "Nombre": "Miguel Pérez",
+    "Segmento": "PyME",
+    "Email": "miguel.pérez@mail.com",
+    "Telefono": "+1-555-4348",
+    "Fecha_Registro": "2023-01-27",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0236",
+    "Nombre": "Miguel Silva",
+    "Segmento": "PyME",
+    "Email": "miguel.silva@mail.com",
+    "Telefono": "+1-555-1438",
+    "Fecha_Registro": "2022-10-11",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0237",
+    "Nombre": "Lucía Hernández",
+    "Segmento": "PyME",
+    "Email": "lucía.hernández@mail.com",
+    "Telefono": "+1-555-4494",
+    "Fecha_Registro": "2022-04-16",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0238",
+    "Nombre": "Javier Pérez",
+    "Segmento": "Particulares",
+    "Email": "javier.pérez@mail.com",
+    "Telefono": "+1-555-3367",
+    "Fecha_Registro": "2022-07-07",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0239",
+    "Nombre": "Sofía Martínez",
+    "Segmento": "Particulares",
+    "Email": "sofía.martínez@mail.com",
+    "Telefono": "+1-555-4060",
+    "Fecha_Registro": "2023-04-10",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0240",
+    "Nombre": "Valeria García",
+    "Segmento": "Empresas",
+    "Email": "valeria.garcía@mail.com",
+    "Telefono": "+1-555-3249",
+    "Fecha_Registro": "2023-03-31",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0241",
+    "Nombre": "Valeria Castro",
+    "Segmento": "Particulares",
+    "Email": "valeria.castro@mail.com",
+    "Telefono": "+1-555-8985",
+    "Fecha_Registro": "2023-07-11",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0242",
+    "Nombre": "Marcos Castro",
+    "Segmento": "Particulares",
+    "Email": "marcos.castro@mail.com",
+    "Telefono": "+1-555-1624",
+    "Fecha_Registro": "2022-02-11",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0243",
+    "Nombre": "Carlos Torres",
+    "Segmento": "PyME",
+    "Email": "carlos.torres@mail.com",
+    "Telefono": "+1-555-8642",
+    "Fecha_Registro": "2023-09-23",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0244",
+    "Nombre": "Rocío Castro",
+    "Segmento": "Empresas",
+    "Email": "rocío.castro@mail.com",
+    "Telefono": "+1-555-7300",
+    "Fecha_Registro": "2022-01-02",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0245",
+    "Nombre": "Lucía López",
+    "Segmento": "Particulares",
+    "Email": "lucía.lópez@mail.com",
+    "Telefono": "+1-555-6734",
+    "Fecha_Registro": "2023-06-01",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0246",
+    "Nombre": "Laura Martínez",
+    "Segmento": "Particulares",
+    "Email": "laura.martínez@mail.com",
+    "Telefono": "+1-555-2253",
+    "Fecha_Registro": "2023-05-10",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0247",
+    "Nombre": "Diego Pérez",
+    "Segmento": "PyME",
+    "Email": "diego.pérez@mail.com",
+    "Telefono": "+1-555-2860",
+    "Fecha_Registro": "2023-12-03",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0248",
+    "Nombre": "Valeria Torres",
+    "Segmento": "Empresas",
+    "Email": "valeria.torres@mail.com",
+    "Telefono": "+1-555-7325",
+    "Fecha_Registro": "2022-05-30",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0249",
+    "Nombre": "Valeria Fernández",
+    "Segmento": "PyME",
+    "Email": "valeria.fernández@mail.com",
+    "Telefono": "+1-555-6445",
+    "Fecha_Registro": "2022-02-03",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0250",
+    "Nombre": "Pedro Pérez",
+    "Segmento": "Particulares",
+    "Email": "pedro.pérez@mail.com",
+    "Telefono": "+1-555-5720",
+    "Fecha_Registro": "2024-02-06",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0251",
+    "Nombre": "Juan Pérez",
+    "Segmento": "Particulares",
+    "Email": "juan.pérez@mail.com",
+    "Telefono": "+1-555-9644",
+    "Fecha_Registro": "2022-05-16",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0252",
+    "Nombre": "Lucía López",
+    "Segmento": "Particulares",
+    "Email": "lucía.lópez@mail.com",
+    "Telefono": "+1-555-4572",
+    "Fecha_Registro": "2022-08-02",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0253",
+    "Nombre": "Elena Vargas",
+    "Segmento": "PyME",
+    "Email": "elena.vargas@mail.com",
+    "Telefono": "+1-555-9117",
+    "Fecha_Registro": "2023-10-08",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0254",
+    "Nombre": "Rocío López",
+    "Segmento": "Particulares",
+    "Email": "rocío.lópez@mail.com",
+    "Telefono": "+1-555-3955",
+    "Fecha_Registro": "2023-11-11",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0255",
+    "Nombre": "Laura González",
+    "Segmento": "Empresas",
+    "Email": "laura.gonzález@mail.com",
+    "Telefono": "+1-555-7156",
+    "Fecha_Registro": "2022-06-07",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0256",
+    "Nombre": "Ana Silva",
+    "Segmento": "PyME",
+    "Email": "ana.silva@mail.com",
+    "Telefono": "+1-555-8378",
+    "Fecha_Registro": "2022-07-14",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0257",
+    "Nombre": "Laura Silva",
+    "Segmento": "Empresas",
+    "Email": "laura.silva@mail.com",
+    "Telefono": "+1-555-3395",
+    "Fecha_Registro": "2023-08-04",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0258",
+    "Nombre": "Ana García",
+    "Segmento": "Empresas",
+    "Email": "ana.garcía@mail.com",
+    "Telefono": "+1-555-9208",
+    "Fecha_Registro": "2022-03-17",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0259",
+    "Nombre": "Miguel Pérez",
+    "Segmento": "PyME",
+    "Email": "miguel.pérez@mail.com",
+    "Telefono": "+1-555-7270",
+    "Fecha_Registro": "2023-06-26",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0260",
+    "Nombre": "Miguel Martínez",
+    "Segmento": "PyME",
+    "Email": "miguel.martínez@mail.com",
+    "Telefono": "+1-555-5261",
+    "Fecha_Registro": "2022-02-06",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0261",
+    "Nombre": "Lucía Vargas",
+    "Segmento": "Empresas",
+    "Email": "lucía.vargas@mail.com",
+    "Telefono": "+1-555-3652",
+    "Fecha_Registro": "2023-06-12",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0262",
+    "Nombre": "Marcos Ramírez",
+    "Segmento": "Empresas",
+    "Email": "marcos.ramírez@mail.com",
+    "Telefono": "+1-555-2498",
+    "Fecha_Registro": "2022-12-08",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0263",
+    "Nombre": "María Torres",
+    "Segmento": "PyME",
+    "Email": "maría.torres@mail.com",
+    "Telefono": "+1-555-8978",
+    "Fecha_Registro": "2024-06-09",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0264",
+    "Nombre": "Rocío Vargas",
+    "Segmento": "Empresas",
+    "Email": "rocío.vargas@mail.com",
+    "Telefono": "+1-555-6878",
+    "Fecha_Registro": "2024-05-08",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0265",
+    "Nombre": "Lucía Torres",
+    "Segmento": "Particulares",
+    "Email": "lucía.torres@mail.com",
+    "Telefono": "+1-555-6842",
+    "Fecha_Registro": "2023-10-26",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0266",
+    "Nombre": "Rocío Ramírez",
+    "Segmento": "Empresas",
+    "Email": "rocío.ramírez@mail.com",
+    "Telefono": "+1-555-7086",
+    "Fecha_Registro": "2022-08-25",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0267",
+    "Nombre": "Rocío Fernández",
+    "Segmento": "Empresas",
+    "Email": "rocío.fernández@mail.com",
+    "Telefono": "+1-555-3461",
+    "Fecha_Registro": "2022-04-14",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0268",
+    "Nombre": "Laura Torres",
+    "Segmento": "Empresas",
+    "Email": "laura.torres@mail.com",
+    "Telefono": "+1-555-6700",
+    "Fecha_Registro": "2023-05-28",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0269",
+    "Nombre": "María García",
+    "Segmento": "PyME",
+    "Email": "maría.garcía@mail.com",
+    "Telefono": "+1-555-5894",
+    "Fecha_Registro": "2022-09-14",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0270",
+    "Nombre": "Juan Ramírez",
+    "Segmento": "Empresas",
+    "Email": "juan.ramírez@mail.com",
+    "Telefono": "+1-555-6125",
+    "Fecha_Registro": "2022-01-12",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0271",
+    "Nombre": "Ana García",
+    "Segmento": "Empresas",
+    "Email": "ana.garcía@mail.com",
+    "Telefono": "+1-555-6021",
+    "Fecha_Registro": "2022-06-29",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0272",
+    "Nombre": "Sofía Fernández",
+    "Segmento": "Empresas",
+    "Email": "sofía.fernández@mail.com",
+    "Telefono": "+1-555-6541",
+    "Fecha_Registro": "2024-06-15",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0273",
+    "Nombre": "Valeria González",
+    "Segmento": "Particulares",
+    "Email": "valeria.gonzález@mail.com",
+    "Telefono": "+1-555-2373",
+    "Fecha_Registro": "2022-10-15",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0274",
+    "Nombre": "Pedro Silva",
+    "Segmento": "Empresas",
+    "Email": "pedro.silva@mail.com",
+    "Telefono": "+1-555-7077",
+    "Fecha_Registro": "2023-02-13",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0275",
+    "Nombre": "Ana Martínez",
+    "Segmento": "PyME",
+    "Email": "ana.martínez@mail.com",
+    "Telefono": "+1-555-2082",
+    "Fecha_Registro": "2022-03-30",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0276",
+    "Nombre": "Laura López",
+    "Segmento": "Empresas",
+    "Email": "laura.lópez@mail.com",
+    "Telefono": "+1-555-3785",
+    "Fecha_Registro": "2023-12-19",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0277",
+    "Nombre": "María Vargas",
+    "Segmento": "PyME",
+    "Email": "maría.vargas@mail.com",
+    "Telefono": "+1-555-5258",
+    "Fecha_Registro": "2023-09-27",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0278",
+    "Nombre": "Lucía Pérez",
+    "Segmento": "Particulares",
+    "Email": "lucía.pérez@mail.com",
+    "Telefono": "+1-555-3270",
+    "Fecha_Registro": "2023-09-16",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0279",
+    "Nombre": "Carlos Vargas",
+    "Segmento": "Empresas",
+    "Email": "carlos.vargas@mail.com",
+    "Telefono": "+1-555-9564",
+    "Fecha_Registro": "2023-09-16",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0280",
+    "Nombre": "Marcos Ramírez",
+    "Segmento": "PyME",
+    "Email": "marcos.ramírez@mail.com",
+    "Telefono": "+1-555-2358",
+    "Fecha_Registro": "2023-04-27",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0281",
+    "Nombre": "Miguel Hernández",
+    "Segmento": "Empresas",
+    "Email": "miguel.hernández@mail.com",
+    "Telefono": "+1-555-7562",
+    "Fecha_Registro": "2023-08-03",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0282",
+    "Nombre": "Elena González",
+    "Segmento": "Particulares",
+    "Email": "elena.gonzález@mail.com",
+    "Telefono": "+1-555-4181",
+    "Fecha_Registro": "2023-01-23",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0283",
+    "Nombre": "Diego Fernández",
+    "Segmento": "Empresas",
+    "Email": "diego.fernández@mail.com",
+    "Telefono": "+1-555-4709",
+    "Fecha_Registro": "2022-12-18",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0284",
+    "Nombre": "Miguel Silva",
+    "Segmento": "Empresas",
+    "Email": "miguel.silva@mail.com",
+    "Telefono": "+1-555-9945",
+    "Fecha_Registro": "2022-07-19",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0285",
+    "Nombre": "Valeria Vargas",
+    "Segmento": "Particulares",
+    "Email": "valeria.vargas@mail.com",
+    "Telefono": "+1-555-3822",
+    "Fecha_Registro": "2022-10-06",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0286",
+    "Nombre": "Valeria Hernández",
+    "Segmento": "Empresas",
+    "Email": "valeria.hernández@mail.com",
+    "Telefono": "+1-555-8172",
+    "Fecha_Registro": "2023-02-16",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0287",
+    "Nombre": "Elena Castro",
+    "Segmento": "PyME",
+    "Email": "elena.castro@mail.com",
+    "Telefono": "+1-555-1301",
+    "Fecha_Registro": "2022-08-25",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0288",
+    "Nombre": "Pedro Torres",
+    "Segmento": "PyME",
+    "Email": "pedro.torres@mail.com",
+    "Telefono": "+1-555-5628",
+    "Fecha_Registro": "2022-04-16",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0289",
+    "Nombre": "Valeria López",
+    "Segmento": "Empresas",
+    "Email": "valeria.lópez@mail.com",
+    "Telefono": "+1-555-7518",
+    "Fecha_Registro": "2022-02-25",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0290",
+    "Nombre": "Pedro Martínez",
+    "Segmento": "Particulares",
+    "Email": "pedro.martínez@mail.com",
+    "Telefono": "+1-555-6692",
+    "Fecha_Registro": "2024-02-26",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0291",
+    "Nombre": "Sofía Castro",
+    "Segmento": "PyME",
+    "Email": "sofía.castro@mail.com",
+    "Telefono": "+1-555-3428",
+    "Fecha_Registro": "2023-09-13",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0292",
+    "Nombre": "Valeria López",
+    "Segmento": "Particulares",
+    "Email": "valeria.lópez@mail.com",
+    "Telefono": "+1-555-3189",
+    "Fecha_Registro": "2023-04-16",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0293",
+    "Nombre": "Carlos López",
+    "Segmento": "PyME",
+    "Email": "carlos.lópez@mail.com",
+    "Telefono": "+1-555-2977",
+    "Fecha_Registro": "2024-01-27",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0294",
+    "Nombre": "Pablo Castro",
+    "Segmento": "PyME",
+    "Email": "pablo.castro@mail.com",
+    "Telefono": "+1-555-4436",
+    "Fecha_Registro": "2023-01-09",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0295",
+    "Nombre": "María García",
+    "Segmento": "PyME",
+    "Email": "maría.garcía@mail.com",
+    "Telefono": "+1-555-9779",
+    "Fecha_Registro": "2023-02-10",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0296",
+    "Nombre": "Pablo González",
+    "Segmento": "PyME",
+    "Email": "pablo.gonzález@mail.com",
+    "Telefono": "+1-555-6195",
+    "Fecha_Registro": "2024-06-01",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0297",
+    "Nombre": "Diego Ramírez",
+    "Segmento": "Empresas",
+    "Email": "diego.ramírez@mail.com",
+    "Telefono": "+1-555-8325",
+    "Fecha_Registro": "2022-03-01",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0298",
+    "Nombre": "María López",
+    "Segmento": "PyME",
+    "Email": "maría.lópez@mail.com",
+    "Telefono": "+1-555-8546",
+    "Fecha_Registro": "2022-01-17",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0299",
+    "Nombre": "Miguel Pérez",
+    "Segmento": "PyME",
+    "Email": "miguel.pérez@mail.com",
+    "Telefono": "+1-555-8984",
+    "Fecha_Registro": "2022-06-14",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0300",
+    "Nombre": "Juan Hernández",
+    "Segmento": "PyME",
+    "Email": "juan.hernández@mail.com",
+    "Telefono": "+1-555-8973",
+    "Fecha_Registro": "2024-01-03",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0301",
+    "Nombre": "Juan Pérez",
+    "Segmento": "Particulares",
+    "Email": "juan.pérez@mail.com",
+    "Telefono": "+1-555-3975",
+    "Fecha_Registro": "2022-08-15",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0302",
+    "Nombre": "Miguel González",
+    "Segmento": "PyME",
+    "Email": "miguel.gonzález@mail.com",
+    "Telefono": "+1-555-8621",
+    "Fecha_Registro": "2024-06-10",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0303",
+    "Nombre": "Carlos López",
+    "Segmento": "Particulares",
+    "Email": "carlos.lópez@mail.com",
+    "Telefono": "+1-555-6263",
+    "Fecha_Registro": "2023-04-11",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0304",
+    "Nombre": "Juan Torres",
+    "Segmento": "Particulares",
+    "Email": "juan.torres@mail.com",
+    "Telefono": "+1-555-8269",
+    "Fecha_Registro": "2023-12-21",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0305",
+    "Nombre": "Pedro González",
+    "Segmento": "Particulares",
+    "Email": "pedro.gonzález@mail.com",
+    "Telefono": "+1-555-4101",
+    "Fecha_Registro": "2024-05-30",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0306",
+    "Nombre": "María García",
+    "Segmento": "Empresas",
+    "Email": "maría.garcía@mail.com",
+    "Telefono": "+1-555-1698",
+    "Fecha_Registro": "2022-06-22",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0307",
+    "Nombre": "Rocío Hernández",
+    "Segmento": "PyME",
+    "Email": "rocío.hernández@mail.com",
+    "Telefono": "+1-555-8592",
+    "Fecha_Registro": "2022-04-13",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0308",
+    "Nombre": "Lucía García",
+    "Segmento": "PyME",
+    "Email": "lucía.garcía@mail.com",
+    "Telefono": "+1-555-8436",
+    "Fecha_Registro": "2022-09-26",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0309",
+    "Nombre": "Diego Pérez",
+    "Segmento": "PyME",
+    "Email": "diego.pérez@mail.com",
+    "Telefono": "+1-555-4732",
+    "Fecha_Registro": "2024-04-21",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0310",
+    "Nombre": "Rocío Fernández",
+    "Segmento": "PyME",
+    "Email": "rocío.fernández@mail.com",
+    "Telefono": "+1-555-4661",
+    "Fecha_Registro": "2023-10-01",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0311",
+    "Nombre": "Marcos Pérez",
+    "Segmento": "PyME",
+    "Email": "marcos.pérez@mail.com",
+    "Telefono": "+1-555-3220",
+    "Fecha_Registro": "2023-03-25",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0312",
+    "Nombre": "Laura Silva",
+    "Segmento": "PyME",
+    "Email": "laura.silva@mail.com",
+    "Telefono": "+1-555-3602",
+    "Fecha_Registro": "2024-03-10",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0313",
+    "Nombre": "Elena Fernández",
+    "Segmento": "Particulares",
+    "Email": "elena.fernández@mail.com",
+    "Telefono": "+1-555-2775",
+    "Fecha_Registro": "2023-03-28",
+    "Pais": "Argentina",
+    "Ciudad": "Rosario"
+  },
+  {
+    "ID_Cliente": "C0314",
+    "Nombre": "Sofía Silva",
+    "Segmento": "Empresas",
+    "Email": "sofía.silva@mail.com",
+    "Telefono": "+1-555-3769",
+    "Fecha_Registro": "2022-08-16",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0315",
+    "Nombre": "Diego Martínez",
+    "Segmento": "PyME",
+    "Email": "diego.martínez@mail.com",
+    "Telefono": "+1-555-3582",
+    "Fecha_Registro": "2023-04-06",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0316",
+    "Nombre": "Rocío López",
+    "Segmento": "PyME",
+    "Email": "rocío.lópez@mail.com",
+    "Telefono": "+1-555-9041",
+    "Fecha_Registro": "2024-06-03",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0317",
+    "Nombre": "Pedro López",
+    "Segmento": "Particulares",
+    "Email": "pedro.lópez@mail.com",
+    "Telefono": "+1-555-1726",
+    "Fecha_Registro": "2024-04-08",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0318",
+    "Nombre": "Sofía Torres",
+    "Segmento": "Particulares",
+    "Email": "sofía.torres@mail.com",
+    "Telefono": "+1-555-6949",
+    "Fecha_Registro": "2022-06-09",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0319",
+    "Nombre": "Javier López",
+    "Segmento": "Empresas",
+    "Email": "javier.lópez@mail.com",
+    "Telefono": "+1-555-3239",
+    "Fecha_Registro": "2022-10-21",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0320",
+    "Nombre": "Rocío Hernández",
+    "Segmento": "PyME",
+    "Email": "rocío.hernández@mail.com",
+    "Telefono": "+1-555-7079",
+    "Fecha_Registro": "2022-05-11",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0321",
+    "Nombre": "Pedro Silva",
+    "Segmento": "Particulares",
+    "Email": "pedro.silva@mail.com",
+    "Telefono": "+1-555-4079",
+    "Fecha_Registro": "2023-02-28",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0322",
+    "Nombre": "Pablo López",
+    "Segmento": "Particulares",
+    "Email": "pablo.lópez@mail.com",
+    "Telefono": "+1-555-5587",
+    "Fecha_Registro": "2022-03-10",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0323",
+    "Nombre": "Javier García",
+    "Segmento": "Particulares",
+    "Email": "javier.garcía@mail.com",
+    "Telefono": "+1-555-2660",
+    "Fecha_Registro": "2023-10-02",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0324",
+    "Nombre": "Valeria Martínez",
+    "Segmento": "Particulares",
+    "Email": "valeria.martínez@mail.com",
+    "Telefono": "+1-555-9327",
+    "Fecha_Registro": "2023-02-03",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0325",
+    "Nombre": "Carlos García",
+    "Segmento": "PyME",
+    "Email": "carlos.garcía@mail.com",
+    "Telefono": "+1-555-7626",
+    "Fecha_Registro": "2022-11-22",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0326",
+    "Nombre": "Miguel Ramírez",
+    "Segmento": "PyME",
+    "Email": "miguel.ramírez@mail.com",
+    "Telefono": "+1-555-8418",
+    "Fecha_Registro": "2023-04-28",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0327",
+    "Nombre": "Marcos Torres",
+    "Segmento": "Particulares",
+    "Email": "marcos.torres@mail.com",
+    "Telefono": "+1-555-1382",
+    "Fecha_Registro": "2023-08-01",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0328",
+    "Nombre": "Rocío Martínez",
+    "Segmento": "PyME",
+    "Email": "rocío.martínez@mail.com",
+    "Telefono": "+1-555-1357",
+    "Fecha_Registro": "2023-03-03",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0329",
+    "Nombre": "Sofía Torres",
+    "Segmento": "Empresas",
+    "Email": "sofía.torres@mail.com",
+    "Telefono": "+1-555-8376",
+    "Fecha_Registro": "2023-01-19",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0330",
+    "Nombre": "Miguel Vargas",
+    "Segmento": "PyME",
+    "Email": "miguel.vargas@mail.com",
+    "Telefono": "+1-555-5388",
+    "Fecha_Registro": "2023-01-14",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0331",
+    "Nombre": "Miguel Fernández",
+    "Segmento": "PyME",
+    "Email": "miguel.fernández@mail.com",
+    "Telefono": "+1-555-6125",
+    "Fecha_Registro": "2022-07-24",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0332",
+    "Nombre": "Miguel Fernández",
+    "Segmento": "PyME",
+    "Email": "miguel.fernández@mail.com",
+    "Telefono": "+1-555-1322",
+    "Fecha_Registro": "2023-11-19",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0333",
+    "Nombre": "Valeria Vargas",
+    "Segmento": "PyME",
+    "Email": "valeria.vargas@mail.com",
+    "Telefono": "+1-555-2034",
+    "Fecha_Registro": "2022-07-03",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0334",
+    "Nombre": "Rocío González",
+    "Segmento": "Particulares",
+    "Email": "rocío.gonzález@mail.com",
+    "Telefono": "+1-555-7657",
+    "Fecha_Registro": "2022-03-23",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0335",
+    "Nombre": "Marcos Castro",
+    "Segmento": "PyME",
+    "Email": "marcos.castro@mail.com",
+    "Telefono": "+1-555-5751",
+    "Fecha_Registro": "2023-05-24",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0336",
+    "Nombre": "María Ramírez",
+    "Segmento": "Empresas",
+    "Email": "maría.ramírez@mail.com",
+    "Telefono": "+1-555-8091",
+    "Fecha_Registro": "2024-03-30",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0337",
+    "Nombre": "Rocío González",
+    "Segmento": "Particulares",
+    "Email": "rocío.gonzález@mail.com",
+    "Telefono": "+1-555-1225",
+    "Fecha_Registro": "2023-12-11",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0338",
+    "Nombre": "Elena Fernández",
+    "Segmento": "Empresas",
+    "Email": "elena.fernández@mail.com",
+    "Telefono": "+1-555-3916",
+    "Fecha_Registro": "2022-04-13",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0339",
+    "Nombre": "Diego González",
+    "Segmento": "PyME",
+    "Email": "diego.gonzález@mail.com",
+    "Telefono": "+1-555-8114",
+    "Fecha_Registro": "2022-05-15",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0340",
+    "Nombre": "Sofía Castro",
+    "Segmento": "Empresas",
+    "Email": "sofía.castro@mail.com",
+    "Telefono": "+1-555-6916",
+    "Fecha_Registro": "2023-06-08",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0341",
+    "Nombre": "Pedro Pérez",
+    "Segmento": "Empresas",
+    "Email": "pedro.pérez@mail.com",
+    "Telefono": "+1-555-8681",
+    "Fecha_Registro": "2023-07-20",
+    "Pais": "Argentina",
+    "Ciudad": "Rosario"
+  },
+  {
+    "ID_Cliente": "C0342",
+    "Nombre": "Pablo Hernández",
+    "Segmento": "PyME",
+    "Email": "pablo.hernández@mail.com",
+    "Telefono": "+1-555-2893",
+    "Fecha_Registro": "2023-03-19",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0343",
+    "Nombre": "Ana Ramírez",
+    "Segmento": "Particulares",
+    "Email": "ana.ramírez@mail.com",
+    "Telefono": "+1-555-9086",
+    "Fecha_Registro": "2023-12-22",
+    "Pais": "Argentina",
+    "Ciudad": "Rosario"
+  },
+  {
+    "ID_Cliente": "C0344",
+    "Nombre": "Lucía Fernández",
+    "Segmento": "PyME",
+    "Email": "lucía.fernández@mail.com",
+    "Telefono": "+1-555-3520",
+    "Fecha_Registro": "2023-08-25",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0345",
+    "Nombre": "Lucía Pérez",
+    "Segmento": "PyME",
+    "Email": "lucía.pérez@mail.com",
+    "Telefono": "+1-555-2098",
+    "Fecha_Registro": "2022-07-28",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0346",
+    "Nombre": "María Castro",
+    "Segmento": "PyME",
+    "Email": "maría.castro@mail.com",
+    "Telefono": "+1-555-1215",
+    "Fecha_Registro": "2023-09-29",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0347",
+    "Nombre": "Ana Silva",
+    "Segmento": "Particulares",
+    "Email": "ana.silva@mail.com",
+    "Telefono": "+1-555-7773",
+    "Fecha_Registro": "2023-06-01",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0348",
+    "Nombre": "Pablo Hernández",
+    "Segmento": "Particulares",
+    "Email": "pablo.hernández@mail.com",
+    "Telefono": "+1-555-8064",
+    "Fecha_Registro": "2022-07-03",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0349",
+    "Nombre": "Marcos Silva",
+    "Segmento": "PyME",
+    "Email": "marcos.silva@mail.com",
+    "Telefono": "+1-555-5439",
+    "Fecha_Registro": "2023-08-31",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0350",
+    "Nombre": "Diego Ramírez",
+    "Segmento": "Empresas",
+    "Email": "diego.ramírez@mail.com",
+    "Telefono": "+1-555-4408",
+    "Fecha_Registro": "2022-01-26",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0351",
+    "Nombre": "Elena López",
+    "Segmento": "PyME",
+    "Email": "elena.lópez@mail.com",
+    "Telefono": "+1-555-2173",
+    "Fecha_Registro": "2022-09-19",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0352",
+    "Nombre": "Valeria Castro",
+    "Segmento": "PyME",
+    "Email": "valeria.castro@mail.com",
+    "Telefono": "+1-555-9010",
+    "Fecha_Registro": "2022-05-30",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0353",
+    "Nombre": "Pablo Hernández",
+    "Segmento": "PyME",
+    "Email": "pablo.hernández@mail.com",
+    "Telefono": "+1-555-6046",
+    "Fecha_Registro": "2024-02-05",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0354",
+    "Nombre": "Lucía Martínez",
+    "Segmento": "Empresas",
+    "Email": "lucía.martínez@mail.com",
+    "Telefono": "+1-555-6510",
+    "Fecha_Registro": "2023-01-25",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0355",
+    "Nombre": "Valeria López",
+    "Segmento": "Particulares",
+    "Email": "valeria.lópez@mail.com",
+    "Telefono": "+1-555-4594",
+    "Fecha_Registro": "2022-08-26",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0356",
+    "Nombre": "Carlos Torres",
+    "Segmento": "Particulares",
+    "Email": "carlos.torres@mail.com",
+    "Telefono": "+1-555-3282",
+    "Fecha_Registro": "2023-09-20",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0357",
+    "Nombre": "Carlos García",
+    "Segmento": "Empresas",
+    "Email": "carlos.garcía@mail.com",
+    "Telefono": "+1-555-6914",
+    "Fecha_Registro": "2023-01-09",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0358",
+    "Nombre": "Rocío Hernández",
+    "Segmento": "Particulares",
+    "Email": "rocío.hernández@mail.com",
+    "Telefono": "+1-555-6391",
+    "Fecha_Registro": "2023-10-22",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0359",
+    "Nombre": "Valeria Silva",
+    "Segmento": "Particulares",
+    "Email": "valeria.silva@mail.com",
+    "Telefono": "+1-555-8246",
+    "Fecha_Registro": "2023-08-20",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0360",
+    "Nombre": "Pedro Fernández",
+    "Segmento": "PyME",
+    "Email": "pedro.fernández@mail.com",
+    "Telefono": "+1-555-9135",
+    "Fecha_Registro": "2022-05-29",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0361",
+    "Nombre": "Miguel López",
+    "Segmento": "Empresas",
+    "Email": "miguel.lópez@mail.com",
+    "Telefono": "+1-555-2087",
+    "Fecha_Registro": "2024-02-20",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0362",
+    "Nombre": "Pablo Fernández",
+    "Segmento": "Empresas",
+    "Email": "pablo.fernández@mail.com",
+    "Telefono": "+1-555-8409",
+    "Fecha_Registro": "2024-04-10",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0363",
+    "Nombre": "María Torres",
+    "Segmento": "Particulares",
+    "Email": "maría.torres@mail.com",
+    "Telefono": "+1-555-9054",
+    "Fecha_Registro": "2022-05-22",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0364",
+    "Nombre": "Lucía Fernández",
+    "Segmento": "PyME",
+    "Email": "lucía.fernández@mail.com",
+    "Telefono": "+1-555-4265",
+    "Fecha_Registro": "2022-05-26",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0365",
+    "Nombre": "Rocío Fernández",
+    "Segmento": "PyME",
+    "Email": "rocío.fernández@mail.com",
+    "Telefono": "+1-555-9604",
+    "Fecha_Registro": "2023-07-22",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0366",
+    "Nombre": "Ana López",
+    "Segmento": "PyME",
+    "Email": "ana.lópez@mail.com",
+    "Telefono": "+1-555-1331",
+    "Fecha_Registro": "2024-05-08",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0367",
+    "Nombre": "Javier López",
+    "Segmento": "Particulares",
+    "Email": "javier.lópez@mail.com",
+    "Telefono": "+1-555-1143",
+    "Fecha_Registro": "2023-10-03",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0368",
+    "Nombre": "Pedro Pérez",
+    "Segmento": "Particulares",
+    "Email": "pedro.pérez@mail.com",
+    "Telefono": "+1-555-9767",
+    "Fecha_Registro": "2022-05-26",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0369",
+    "Nombre": "Laura Hernández",
+    "Segmento": "Particulares",
+    "Email": "laura.hernández@mail.com",
+    "Telefono": "+1-555-1227",
+    "Fecha_Registro": "2023-09-29",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0370",
+    "Nombre": "María López",
+    "Segmento": "PyME",
+    "Email": "maría.lópez@mail.com",
+    "Telefono": "+1-555-8739",
+    "Fecha_Registro": "2023-11-08",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0371",
+    "Nombre": "Pablo Martínez",
+    "Segmento": "Particulares",
+    "Email": "pablo.martínez@mail.com",
+    "Telefono": "+1-555-4512",
+    "Fecha_Registro": "2022-12-13",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0372",
+    "Nombre": "Diego Martínez",
+    "Segmento": "PyME",
+    "Email": "diego.martínez@mail.com",
+    "Telefono": "+1-555-8030",
+    "Fecha_Registro": "2022-11-24",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0373",
+    "Nombre": "Rocío Ramírez",
+    "Segmento": "PyME",
+    "Email": "rocío.ramírez@mail.com",
+    "Telefono": "+1-555-8073",
+    "Fecha_Registro": "2023-11-04",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0374",
+    "Nombre": "Sofía Ramírez",
+    "Segmento": "Empresas",
+    "Email": "sofía.ramírez@mail.com",
+    "Telefono": "+1-555-7563",
+    "Fecha_Registro": "2022-09-04",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0375",
+    "Nombre": "Lucía Ramírez",
+    "Segmento": "Empresas",
+    "Email": "lucía.ramírez@mail.com",
+    "Telefono": "+1-555-2854",
+    "Fecha_Registro": "2022-03-24",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0376",
+    "Nombre": "Marcos López",
+    "Segmento": "PyME",
+    "Email": "marcos.lópez@mail.com",
+    "Telefono": "+1-555-1833",
+    "Fecha_Registro": "2023-11-15",
+    "Pais": "Argentina",
+    "Ciudad": "Rosario"
+  },
+  {
+    "ID_Cliente": "C0377",
+    "Nombre": "Carlos Torres",
+    "Segmento": "Empresas",
+    "Email": "carlos.torres@mail.com",
+    "Telefono": "+1-555-3920",
+    "Fecha_Registro": "2023-03-02",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0378",
+    "Nombre": "Miguel Martínez",
+    "Segmento": "PyME",
+    "Email": "miguel.martínez@mail.com",
+    "Telefono": "+1-555-4322",
+    "Fecha_Registro": "2023-02-22",
+    "Pais": "Argentina",
+    "Ciudad": "Rosario"
+  },
+  {
+    "ID_Cliente": "C0379",
+    "Nombre": "Marcos González",
+    "Segmento": "PyME",
+    "Email": "marcos.gonzález@mail.com",
+    "Telefono": "+1-555-3169",
+    "Fecha_Registro": "2023-09-30",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0380",
+    "Nombre": "Carlos Torres",
+    "Segmento": "Particulares",
+    "Email": "carlos.torres@mail.com",
+    "Telefono": "+1-555-3284",
+    "Fecha_Registro": "2022-12-12",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0381",
+    "Nombre": "Pablo González",
+    "Segmento": "Particulares",
+    "Email": "pablo.gonzález@mail.com",
+    "Telefono": "+1-555-3723",
+    "Fecha_Registro": "2023-09-22",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0382",
+    "Nombre": "Laura Fernández",
+    "Segmento": "Particulares",
+    "Email": "laura.fernández@mail.com",
+    "Telefono": "+1-555-6684",
+    "Fecha_Registro": "2023-07-11",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0383",
+    "Nombre": "María García",
+    "Segmento": "Empresas",
+    "Email": "maría.garcía@mail.com",
+    "Telefono": "+1-555-1770",
+    "Fecha_Registro": "2024-03-26",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0384",
+    "Nombre": "Juan Torres",
+    "Segmento": "PyME",
+    "Email": "juan.torres@mail.com",
+    "Telefono": "+1-555-4613",
+    "Fecha_Registro": "2022-09-19",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0385",
+    "Nombre": "Javier Ramírez",
+    "Segmento": "Particulares",
+    "Email": "javier.ramírez@mail.com",
+    "Telefono": "+1-555-9279",
+    "Fecha_Registro": "2022-03-16",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0386",
+    "Nombre": "Sofía González",
+    "Segmento": "PyME",
+    "Email": "sofía.gonzález@mail.com",
+    "Telefono": "+1-555-5472",
+    "Fecha_Registro": "2022-05-01",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0387",
+    "Nombre": "Lucía Torres",
+    "Segmento": "PyME",
+    "Email": "lucía.torres@mail.com",
+    "Telefono": "+1-555-8894",
+    "Fecha_Registro": "2022-06-17",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0388",
+    "Nombre": "Ana Silva",
+    "Segmento": "PyME",
+    "Email": "ana.silva@mail.com",
+    "Telefono": "+1-555-2070",
+    "Fecha_Registro": "2023-04-30",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0389",
+    "Nombre": "Lucía García",
+    "Segmento": "PyME",
+    "Email": "lucía.garcía@mail.com",
+    "Telefono": "+1-555-2577",
+    "Fecha_Registro": "2022-11-25",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0390",
+    "Nombre": "María López",
+    "Segmento": "Empresas",
+    "Email": "maría.lópez@mail.com",
+    "Telefono": "+1-555-9647",
+    "Fecha_Registro": "2022-11-27",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0391",
+    "Nombre": "Pablo González",
+    "Segmento": "Empresas",
+    "Email": "pablo.gonzález@mail.com",
+    "Telefono": "+1-555-7584",
+    "Fecha_Registro": "2022-11-25",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0392",
+    "Nombre": "Pablo González",
+    "Segmento": "Empresas",
+    "Email": "pablo.gonzález@mail.com",
+    "Telefono": "+1-555-7295",
+    "Fecha_Registro": "2024-04-21",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0393",
+    "Nombre": "Laura García",
+    "Segmento": "Particulares",
+    "Email": "laura.garcía@mail.com",
+    "Telefono": "+1-555-7959",
+    "Fecha_Registro": "2023-03-24",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0394",
+    "Nombre": "Sofía Ramírez",
+    "Segmento": "Particulares",
+    "Email": "sofía.ramírez@mail.com",
+    "Telefono": "+1-555-2124",
+    "Fecha_Registro": "2023-12-29",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0395",
+    "Nombre": "Pablo Fernández",
+    "Segmento": "Particulares",
+    "Email": "pablo.fernández@mail.com",
+    "Telefono": "+1-555-5820",
+    "Fecha_Registro": "2022-04-03",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0396",
+    "Nombre": "Miguel González",
+    "Segmento": "PyME",
+    "Email": "miguel.gonzález@mail.com",
+    "Telefono": "+1-555-9514",
+    "Fecha_Registro": "2024-02-07",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0397",
+    "Nombre": "Pedro Silva",
+    "Segmento": "Empresas",
+    "Email": "pedro.silva@mail.com",
+    "Telefono": "+1-555-6037",
+    "Fecha_Registro": "2024-02-02",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0398",
+    "Nombre": "Juan Ramírez",
+    "Segmento": "Particulares",
+    "Email": "juan.ramírez@mail.com",
+    "Telefono": "+1-555-3045",
+    "Fecha_Registro": "2023-02-28",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0399",
+    "Nombre": "Lucía Pérez",
+    "Segmento": "Empresas",
+    "Email": "lucía.pérez@mail.com",
+    "Telefono": "+1-555-7653",
+    "Fecha_Registro": "2023-06-25",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0400",
+    "Nombre": "Sofía Hernández",
+    "Segmento": "Particulares",
+    "Email": "sofía.hernández@mail.com",
+    "Telefono": "+1-555-3428",
+    "Fecha_Registro": "2023-07-11",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0401",
+    "Nombre": "Rocío Martínez",
+    "Segmento": "PyME",
+    "Email": "rocío.martínez@mail.com",
+    "Telefono": "+1-555-9033",
+    "Fecha_Registro": "2023-03-21",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0402",
+    "Nombre": "Sofía López",
+    "Segmento": "PyME",
+    "Email": "sofía.lópez@mail.com",
+    "Telefono": "+1-555-4901",
+    "Fecha_Registro": "2022-07-01",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0403",
+    "Nombre": "Elena Pérez",
+    "Segmento": "Particulares",
+    "Email": "elena.pérez@mail.com",
+    "Telefono": "+1-555-9149",
+    "Fecha_Registro": "2022-12-23",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0404",
+    "Nombre": "Elena Vargas",
+    "Segmento": "PyME",
+    "Email": "elena.vargas@mail.com",
+    "Telefono": "+1-555-3050",
+    "Fecha_Registro": "2023-08-03",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0405",
+    "Nombre": "Ana Ramírez",
+    "Segmento": "Particulares",
+    "Email": "ana.ramírez@mail.com",
+    "Telefono": "+1-555-6149",
+    "Fecha_Registro": "2022-04-27",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0406",
+    "Nombre": "Lucía Ramírez",
+    "Segmento": "Particulares",
+    "Email": "lucía.ramírez@mail.com",
+    "Telefono": "+1-555-4246",
+    "Fecha_Registro": "2023-07-11",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0407",
+    "Nombre": "Pablo Castro",
+    "Segmento": "PyME",
+    "Email": "pablo.castro@mail.com",
+    "Telefono": "+1-555-6155",
+    "Fecha_Registro": "2024-04-12",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0408",
+    "Nombre": "Laura García",
+    "Segmento": "Particulares",
+    "Email": "laura.garcía@mail.com",
+    "Telefono": "+1-555-4744",
+    "Fecha_Registro": "2022-09-09",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0409",
+    "Nombre": "Javier Ramírez",
+    "Segmento": "PyME",
+    "Email": "javier.ramírez@mail.com",
+    "Telefono": "+1-555-8997",
+    "Fecha_Registro": "2023-08-08",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0410",
+    "Nombre": "Carlos Vargas",
+    "Segmento": "Particulares",
+    "Email": "carlos.vargas@mail.com",
+    "Telefono": "+1-555-5368",
+    "Fecha_Registro": "2023-03-19",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0411",
+    "Nombre": "Laura Martínez",
+    "Segmento": "Empresas",
+    "Email": "laura.martínez@mail.com",
+    "Telefono": "+1-555-3877",
+    "Fecha_Registro": "2023-01-30",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0412",
+    "Nombre": "Elena Pérez",
+    "Segmento": "PyME",
+    "Email": "elena.pérez@mail.com",
+    "Telefono": "+1-555-4289",
+    "Fecha_Registro": "2023-05-26",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0413",
+    "Nombre": "Sofía Hernández",
+    "Segmento": "Empresas",
+    "Email": "sofía.hernández@mail.com",
+    "Telefono": "+1-555-7877",
+    "Fecha_Registro": "2023-08-25",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0414",
+    "Nombre": "Pedro Torres",
+    "Segmento": "PyME",
+    "Email": "pedro.torres@mail.com",
+    "Telefono": "+1-555-8683",
+    "Fecha_Registro": "2023-12-01",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0415",
+    "Nombre": "Laura González",
+    "Segmento": "PyME",
+    "Email": "laura.gonzález@mail.com",
+    "Telefono": "+1-555-8879",
+    "Fecha_Registro": "2023-12-24",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0416",
+    "Nombre": "Pablo López",
+    "Segmento": "Particulares",
+    "Email": "pablo.lópez@mail.com",
+    "Telefono": "+1-555-5899",
+    "Fecha_Registro": "2022-01-18",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0417",
+    "Nombre": "Pedro Martínez",
+    "Segmento": "PyME",
+    "Email": "pedro.martínez@mail.com",
+    "Telefono": "+1-555-3070",
+    "Fecha_Registro": "2022-05-03",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0418",
+    "Nombre": "Carlos Hernández",
+    "Segmento": "Empresas",
+    "Email": "carlos.hernández@mail.com",
+    "Telefono": "+1-555-3751",
+    "Fecha_Registro": "2022-11-24",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0419",
+    "Nombre": "Juan Fernández",
+    "Segmento": "Particulares",
+    "Email": "juan.fernández@mail.com",
+    "Telefono": "+1-555-4183",
+    "Fecha_Registro": "2022-11-18",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0420",
+    "Nombre": "Laura Torres",
+    "Segmento": "Particulares",
+    "Email": "laura.torres@mail.com",
+    "Telefono": "+1-555-1055",
+    "Fecha_Registro": "2022-09-27",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0421",
+    "Nombre": "Laura Pérez",
+    "Segmento": "Particulares",
+    "Email": "laura.pérez@mail.com",
+    "Telefono": "+1-555-1509",
+    "Fecha_Registro": "2022-06-19",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0422",
+    "Nombre": "Sofía Hernández",
+    "Segmento": "Particulares",
+    "Email": "sofía.hernández@mail.com",
+    "Telefono": "+1-555-2970",
+    "Fecha_Registro": "2023-02-18",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0423",
+    "Nombre": "Valeria Torres",
+    "Segmento": "PyME",
+    "Email": "valeria.torres@mail.com",
+    "Telefono": "+1-555-7976",
+    "Fecha_Registro": "2022-10-20",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0424",
+    "Nombre": "Diego Pérez",
+    "Segmento": "PyME",
+    "Email": "diego.pérez@mail.com",
+    "Telefono": "+1-555-8399",
+    "Fecha_Registro": "2024-06-18",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0425",
+    "Nombre": "Juan González",
+    "Segmento": "Empresas",
+    "Email": "juan.gonzález@mail.com",
+    "Telefono": "+1-555-9601",
+    "Fecha_Registro": "2023-11-09",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0426",
+    "Nombre": "Sofía Castro",
+    "Segmento": "PyME",
+    "Email": "sofía.castro@mail.com",
+    "Telefono": "+1-555-1907",
+    "Fecha_Registro": "2024-03-14",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0427",
+    "Nombre": "Javier Pérez",
+    "Segmento": "Empresas",
+    "Email": "javier.pérez@mail.com",
+    "Telefono": "+1-555-6578",
+    "Fecha_Registro": "2023-01-13",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0428",
+    "Nombre": "Javier González",
+    "Segmento": "PyME",
+    "Email": "javier.gonzález@mail.com",
+    "Telefono": "+1-555-5913",
+    "Fecha_Registro": "2022-07-24",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0429",
+    "Nombre": "Elena López",
+    "Segmento": "Empresas",
+    "Email": "elena.lópez@mail.com",
+    "Telefono": "+1-555-5048",
+    "Fecha_Registro": "2024-03-03",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0430",
+    "Nombre": "Laura González",
+    "Segmento": "Empresas",
+    "Email": "laura.gonzález@mail.com",
+    "Telefono": "+1-555-6777",
+    "Fecha_Registro": "2022-05-02",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0431",
+    "Nombre": "Javier Hernández",
+    "Segmento": "Particulares",
+    "Email": "javier.hernández@mail.com",
+    "Telefono": "+1-555-5948",
+    "Fecha_Registro": "2023-06-14",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0432",
+    "Nombre": "Pedro Ramírez",
+    "Segmento": "PyME",
+    "Email": "pedro.ramírez@mail.com",
+    "Telefono": "+1-555-7126",
+    "Fecha_Registro": "2022-07-17",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0433",
+    "Nombre": "Valeria Castro",
+    "Segmento": "PyME",
+    "Email": "valeria.castro@mail.com",
+    "Telefono": "+1-555-6589",
+    "Fecha_Registro": "2022-10-01",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0434",
+    "Nombre": "Juan Silva",
+    "Segmento": "PyME",
+    "Email": "juan.silva@mail.com",
+    "Telefono": "+1-555-9799",
+    "Fecha_Registro": "2022-01-08",
+    "Pais": "Argentina",
+    "Ciudad": "Rosario"
+  },
+  {
+    "ID_Cliente": "C0435",
+    "Nombre": "Rocío Torres",
+    "Segmento": "Empresas",
+    "Email": "rocío.torres@mail.com",
+    "Telefono": "+1-555-5027",
+    "Fecha_Registro": "2023-08-13",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0436",
+    "Nombre": "Juan Castro",
+    "Segmento": "PyME",
+    "Email": "juan.castro@mail.com",
+    "Telefono": "+1-555-5976",
+    "Fecha_Registro": "2023-03-09",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0437",
+    "Nombre": "Diego Vargas",
+    "Segmento": "Particulares",
+    "Email": "diego.vargas@mail.com",
+    "Telefono": "+1-555-5986",
+    "Fecha_Registro": "2023-09-07",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0438",
+    "Nombre": "Elena Torres",
+    "Segmento": "PyME",
+    "Email": "elena.torres@mail.com",
+    "Telefono": "+1-555-7059",
+    "Fecha_Registro": "2022-06-24",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0439",
+    "Nombre": "Diego Silva",
+    "Segmento": "Particulares",
+    "Email": "diego.silva@mail.com",
+    "Telefono": "+1-555-4553",
+    "Fecha_Registro": "2022-12-11",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0440",
+    "Nombre": "Pedro Castro",
+    "Segmento": "Empresas",
+    "Email": "pedro.castro@mail.com",
+    "Telefono": "+1-555-9913",
+    "Fecha_Registro": "2022-12-21",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0441",
+    "Nombre": "Javier Silva",
+    "Segmento": "PyME",
+    "Email": "javier.silva@mail.com",
+    "Telefono": "+1-555-7129",
+    "Fecha_Registro": "2023-05-31",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0442",
+    "Nombre": "Javier García",
+    "Segmento": "Empresas",
+    "Email": "javier.garcía@mail.com",
+    "Telefono": "+1-555-5664",
+    "Fecha_Registro": "2022-01-17",
+    "Pais": "Argentina",
+    "Ciudad": "Rosario"
+  },
+  {
+    "ID_Cliente": "C0443",
+    "Nombre": "Miguel Pérez",
+    "Segmento": "PyME",
+    "Email": "miguel.pérez@mail.com",
+    "Telefono": "+1-555-8597",
+    "Fecha_Registro": "2023-03-24",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0444",
+    "Nombre": "Sofía Silva",
+    "Segmento": "Empresas",
+    "Email": "sofía.silva@mail.com",
+    "Telefono": "+1-555-3557",
+    "Fecha_Registro": "2022-03-22",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0445",
+    "Nombre": "Pedro Silva",
+    "Segmento": "PyME",
+    "Email": "pedro.silva@mail.com",
+    "Telefono": "+1-555-9545",
+    "Fecha_Registro": "2022-12-13",
+    "Pais": "Argentina",
+    "Ciudad": "Rosario"
+  },
+  {
+    "ID_Cliente": "C0446",
+    "Nombre": "María Pérez",
+    "Segmento": "Particulares",
+    "Email": "maría.pérez@mail.com",
+    "Telefono": "+1-555-5342",
+    "Fecha_Registro": "2023-08-01",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0447",
+    "Nombre": "Elena González",
+    "Segmento": "PyME",
+    "Email": "elena.gonzález@mail.com",
+    "Telefono": "+1-555-8080",
+    "Fecha_Registro": "2023-03-20",
+    "Pais": "Uruguay",
+    "Ciudad": "Punta del Este"
+  },
+  {
+    "ID_Cliente": "C0448",
+    "Nombre": "Javier Ramírez",
+    "Segmento": "Empresas",
+    "Email": "javier.ramírez@mail.com",
+    "Telefono": "+1-555-1220",
+    "Fecha_Registro": "2023-10-01",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0449",
+    "Nombre": "Rocío Castro",
+    "Segmento": "Empresas",
+    "Email": "rocío.castro@mail.com",
+    "Telefono": "+1-555-4144",
+    "Fecha_Registro": "2024-01-18",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0450",
+    "Nombre": "Juan Ramírez",
+    "Segmento": "Particulares",
+    "Email": "juan.ramírez@mail.com",
+    "Telefono": "+1-555-6651",
+    "Fecha_Registro": "2023-02-17",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0451",
+    "Nombre": "Rocío García",
+    "Segmento": "Particulares",
+    "Email": "rocío.garcía@mail.com",
+    "Telefono": "+1-555-5709",
+    "Fecha_Registro": "2022-03-16",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0452",
+    "Nombre": "Elena López",
+    "Segmento": "Empresas",
+    "Email": "elena.lópez@mail.com",
+    "Telefono": "+1-555-2385",
+    "Fecha_Registro": "2024-05-27",
+    "Pais": "Chile",
+    "Ciudad": "Valparaíso"
+  },
+  {
+    "ID_Cliente": "C0453",
+    "Nombre": "Sofía Vargas",
+    "Segmento": "PyME",
+    "Email": "sofía.vargas@mail.com",
+    "Telefono": "+1-555-4667",
+    "Fecha_Registro": "2022-09-18",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0454",
+    "Nombre": "Valeria Hernández",
+    "Segmento": "PyME",
+    "Email": "valeria.hernández@mail.com",
+    "Telefono": "+1-555-5270",
+    "Fecha_Registro": "2024-04-25",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0455",
+    "Nombre": "Ana Silva",
+    "Segmento": "Empresas",
+    "Email": "ana.silva@mail.com",
+    "Telefono": "+1-555-5355",
+    "Fecha_Registro": "2023-09-30",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0456",
+    "Nombre": "Miguel Martínez",
+    "Segmento": "Empresas",
+    "Email": "miguel.martínez@mail.com",
+    "Telefono": "+1-555-3170",
+    "Fecha_Registro": "2022-01-04",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0457",
+    "Nombre": "María Torres",
+    "Segmento": "PyME",
+    "Email": "maría.torres@mail.com",
+    "Telefono": "+1-555-4199",
+    "Fecha_Registro": "2022-11-08",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0458",
+    "Nombre": "Diego Hernández",
+    "Segmento": "Particulares",
+    "Email": "diego.hernández@mail.com",
+    "Telefono": "+1-555-7504",
+    "Fecha_Registro": "2022-02-21",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0459",
+    "Nombre": "Marcos Ramírez",
+    "Segmento": "Particulares",
+    "Email": "marcos.ramírez@mail.com",
+    "Telefono": "+1-555-1418",
+    "Fecha_Registro": "2023-01-01",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0460",
+    "Nombre": "Valeria González",
+    "Segmento": "PyME",
+    "Email": "valeria.gonzález@mail.com",
+    "Telefono": "+1-555-5776",
+    "Fecha_Registro": "2023-12-09",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0461",
+    "Nombre": "Rocío Torres",
+    "Segmento": "Particulares",
+    "Email": "rocío.torres@mail.com",
+    "Telefono": "+1-555-7393",
+    "Fecha_Registro": "2022-02-25",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0462",
+    "Nombre": "Pedro Torres",
+    "Segmento": "Empresas",
+    "Email": "pedro.torres@mail.com",
+    "Telefono": "+1-555-3001",
+    "Fecha_Registro": "2023-04-29",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0463",
+    "Nombre": "Diego Martínez",
+    "Segmento": "PyME",
+    "Email": "diego.martínez@mail.com",
+    "Telefono": "+1-555-9282",
+    "Fecha_Registro": "2022-11-20",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0464",
+    "Nombre": "Pablo Fernández",
+    "Segmento": "PyME",
+    "Email": "pablo.fernández@mail.com",
+    "Telefono": "+1-555-2940",
+    "Fecha_Registro": "2022-09-20",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0465",
+    "Nombre": "Miguel Silva",
+    "Segmento": "Particulares",
+    "Email": "miguel.silva@mail.com",
+    "Telefono": "+1-555-9627",
+    "Fecha_Registro": "2022-06-14",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0466",
+    "Nombre": "Sofía Ramírez",
+    "Segmento": "PyME",
+    "Email": "sofía.ramírez@mail.com",
+    "Telefono": "+1-555-6912",
+    "Fecha_Registro": "2022-11-09",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0467",
+    "Nombre": "Javier Silva",
+    "Segmento": "Particulares",
+    "Email": "javier.silva@mail.com",
+    "Telefono": "+1-555-2423",
+    "Fecha_Registro": "2024-03-08",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0468",
+    "Nombre": "Javier Torres",
+    "Segmento": "PyME",
+    "Email": "javier.torres@mail.com",
+    "Telefono": "+1-555-3250",
+    "Fecha_Registro": "2024-05-02",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0469",
+    "Nombre": "Carlos Torres",
+    "Segmento": "PyME",
+    "Email": "carlos.torres@mail.com",
+    "Telefono": "+1-555-3282",
+    "Fecha_Registro": "2024-02-27",
+    "Pais": "México",
+    "Ciudad": "Ciudad de México"
+  },
+  {
+    "ID_Cliente": "C0470",
+    "Nombre": "Elena Silva",
+    "Segmento": "PyME",
+    "Email": "elena.silva@mail.com",
+    "Telefono": "+1-555-6758",
+    "Fecha_Registro": "2023-09-02",
+    "Pais": "México",
+    "Ciudad": "Monterrey"
+  },
+  {
+    "ID_Cliente": "C0471",
+    "Nombre": "Carlos Fernández",
+    "Segmento": "Particulares",
+    "Email": "carlos.fernández@mail.com",
+    "Telefono": "+1-555-1326",
+    "Fecha_Registro": "2023-11-09",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0472",
+    "Nombre": "Sofía Ramírez",
+    "Segmento": "PyME",
+    "Email": "sofía.ramírez@mail.com",
+    "Telefono": "+1-555-7006",
+    "Fecha_Registro": "2023-10-22",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0473",
+    "Nombre": "Marcos Hernández",
+    "Segmento": "PyME",
+    "Email": "marcos.hernández@mail.com",
+    "Telefono": "+1-555-9201",
+    "Fecha_Registro": "2023-09-07",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0474",
+    "Nombre": "Elena Vargas",
+    "Segmento": "Empresas",
+    "Email": "elena.vargas@mail.com",
+    "Telefono": "+1-555-1702",
+    "Fecha_Registro": "2022-04-28",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0475",
+    "Nombre": "Sofía Martínez",
+    "Segmento": "Particulares",
+    "Email": "sofía.martínez@mail.com",
+    "Telefono": "+1-555-7913",
+    "Fecha_Registro": "2022-01-02",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0476",
+    "Nombre": "Carlos Pérez",
+    "Segmento": "PyME",
+    "Email": "carlos.pérez@mail.com",
+    "Telefono": "+1-555-7092",
+    "Fecha_Registro": "2022-11-01",
+    "Pais": "Colombia",
+    "Ciudad": "Cali"
+  },
+  {
+    "ID_Cliente": "C0477",
+    "Nombre": "Lucía Fernández",
+    "Segmento": "Particulares",
+    "Email": "lucía.fernández@mail.com",
+    "Telefono": "+1-555-3623",
+    "Fecha_Registro": "2023-08-05",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0478",
+    "Nombre": "Ana García",
+    "Segmento": "Particulares",
+    "Email": "ana.garcía@mail.com",
+    "Telefono": "+1-555-5308",
+    "Fecha_Registro": "2023-12-21",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0479",
+    "Nombre": "Miguel Silva",
+    "Segmento": "PyME",
+    "Email": "miguel.silva@mail.com",
+    "Telefono": "+1-555-2559",
+    "Fecha_Registro": "2024-06-19",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0480",
+    "Nombre": "Pablo García",
+    "Segmento": "Particulares",
+    "Email": "pablo.garcía@mail.com",
+    "Telefono": "+1-555-6238",
+    "Fecha_Registro": "2023-10-24",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0481",
+    "Nombre": "Sofía Torres",
+    "Segmento": "Empresas",
+    "Email": "sofía.torres@mail.com",
+    "Telefono": "+1-555-5537",
+    "Fecha_Registro": "2023-09-06",
+    "Pais": "Argentina",
+    "Ciudad": "Mendoza"
+  },
+  {
+    "ID_Cliente": "C0482",
+    "Nombre": "Sofía Pérez",
+    "Segmento": "Empresas",
+    "Email": "sofía.pérez@mail.com",
+    "Telefono": "+1-555-4077",
+    "Fecha_Registro": "2023-05-27",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0483",
+    "Nombre": "Elena Torres",
+    "Segmento": "Empresas",
+    "Email": "elena.torres@mail.com",
+    "Telefono": "+1-555-7595",
+    "Fecha_Registro": "2022-07-25",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0484",
+    "Nombre": "Marcos Ramírez",
+    "Segmento": "Particulares",
+    "Email": "marcos.ramírez@mail.com",
+    "Telefono": "+1-555-9227",
+    "Fecha_Registro": "2022-06-02",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0485",
+    "Nombre": "Laura García",
+    "Segmento": "PyME",
+    "Email": "laura.garcía@mail.com",
+    "Telefono": "+1-555-8700",
+    "Fecha_Registro": "2022-02-27",
+    "Pais": "Uruguay",
+    "Ciudad": "Montevideo"
+  },
+  {
+    "ID_Cliente": "C0486",
+    "Nombre": "Ana Vargas",
+    "Segmento": "Particulares",
+    "Email": "ana.vargas@mail.com",
+    "Telefono": "+1-555-4308",
+    "Fecha_Registro": "2022-10-17",
+    "Pais": "Argentina",
+    "Ciudad": "Rosario"
+  },
+  {
+    "ID_Cliente": "C0487",
+    "Nombre": "Rocío González",
+    "Segmento": "Particulares",
+    "Email": "rocío.gonzález@mail.com",
+    "Telefono": "+1-555-7346",
+    "Fecha_Registro": "2023-08-10",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  },
+  {
+    "ID_Cliente": "C0488",
+    "Nombre": "Pablo Vargas",
+    "Segmento": "Particulares",
+    "Email": "pablo.vargas@mail.com",
+    "Telefono": "+1-555-5801",
+    "Fecha_Registro": "2022-02-08",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0489",
+    "Nombre": "Lucía Castro",
+    "Segmento": "PyME",
+    "Email": "lucía.castro@mail.com",
+    "Telefono": "+1-555-4629",
+    "Fecha_Registro": "2023-11-25",
+    "Pais": "Argentina",
+    "Ciudad": "Buenos Aires"
+  },
+  {
+    "ID_Cliente": "C0490",
+    "Nombre": "Pedro González",
+    "Segmento": "Particulares",
+    "Email": "pedro.gonzález@mail.com",
+    "Telefono": "+1-555-4827",
+    "Fecha_Registro": "2023-05-17",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0491",
+    "Nombre": "Rocío González",
+    "Segmento": "Empresas",
+    "Email": "rocío.gonzález@mail.com",
+    "Telefono": "+1-555-9199",
+    "Fecha_Registro": "2023-04-24",
+    "Pais": "Colombia",
+    "Ciudad": "Bogotá"
+  },
+  {
+    "ID_Cliente": "C0492",
+    "Nombre": "Pablo Pérez",
+    "Segmento": "Particulares",
+    "Email": "pablo.pérez@mail.com",
+    "Telefono": "+1-555-8927",
+    "Fecha_Registro": "2023-02-28",
+    "Pais": "Chile",
+    "Ciudad": "Santiago"
+  },
+  {
+    "ID_Cliente": "C0493",
+    "Nombre": "Ana García",
+    "Segmento": "Empresas",
+    "Email": "ana.garcía@mail.com",
+    "Telefono": "+1-555-5666",
+    "Fecha_Registro": "2023-08-05",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0494",
+    "Nombre": "Ana Pérez",
+    "Segmento": "Empresas",
+    "Email": "ana.pérez@mail.com",
+    "Telefono": "+1-555-7769",
+    "Fecha_Registro": "2023-03-22",
+    "Pais": "Colombia",
+    "Ciudad": "Medellín"
+  },
+  {
+    "ID_Cliente": "C0495",
+    "Nombre": "Elena Torres",
+    "Segmento": "Empresas",
+    "Email": "elena.torres@mail.com",
+    "Telefono": "+1-555-8052",
+    "Fecha_Registro": "2023-07-17",
+    "Pais": "Chile",
+    "Ciudad": "Concepción"
+  },
+  {
+    "ID_Cliente": "C0496",
+    "Nombre": "Diego Fernández",
+    "Segmento": "PyME",
+    "Email": "diego.fernández@mail.com",
+    "Telefono": "+1-555-9699",
+    "Fecha_Registro": "2023-05-27",
+    "Pais": "Argentina",
+    "Ciudad": "Rosario"
+  },
+  {
+    "ID_Cliente": "C0497",
+    "Nombre": "Pablo López",
+    "Segmento": "Empresas",
+    "Email": "pablo.lópez@mail.com",
+    "Telefono": "+1-555-4637",
+    "Fecha_Registro": "2022-05-03",
+    "Pais": "Perú",
+    "Ciudad": "Arequipa"
+  },
+  {
+    "ID_Cliente": "C0498",
+    "Nombre": "Valeria López",
+    "Segmento": "PyME",
+    "Email": "valeria.lópez@mail.com",
+    "Telefono": "+1-555-1274",
+    "Fecha_Registro": "2023-07-30",
+    "Pais": "Argentina",
+    "Ciudad": "Córdoba"
+  },
+  {
+    "ID_Cliente": "C0499",
+    "Nombre": "Laura Pérez",
+    "Segmento": "PyME",
+    "Email": "laura.pérez@mail.com",
+    "Telefono": "+1-555-3323",
+    "Fecha_Registro": "2022-02-04",
+    "Pais": "Perú",
+    "Ciudad": "Lima"
+  },
+  {
+    "ID_Cliente": "C0500",
+    "Nombre": "Pablo Pérez",
+    "Segmento": "Empresas",
+    "Email": "pablo.pérez@mail.com",
+    "Telefono": "+1-555-1547",
+    "Fecha_Registro": "2023-05-06",
+    "Pais": "México",
+    "Ciudad": "Guadalajara"
+  }
+]
